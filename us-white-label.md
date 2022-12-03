@@ -15,7 +15,7 @@ function iea_replace_login_logo() {
 /// Admin Theme Logo
 add_action('us_theme_icon', 'us_theme_icon', 10);
 function us_theme_icon(){
-	$icon_url = "https://api.ismailenesayhan.com/wp-content/uploads/2022/12/logo-light.svg"; // returns thumbnail size
+	$icon_url = "https://api.ismailenesayhan.com/wp-content/uploads/2022/12/logo-light.svg";
 ?>
 	<style>
 		.menu-icon-generic.toplevel_page_us-theme-options .wp-menu-image,
