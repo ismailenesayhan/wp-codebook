@@ -36,9 +36,7 @@ function us_theme_icon(){
 add_filter('us_theme_name', 'us_theme_name_white_label');
 function us_theme_name_white_label($theme_name)
 {
-	if (us_get_option('white_label_theme_name', '') != '') {
-		$theme_name = wp_strip_all_tags('IEA Theme', TRUE);
-	}
+	$theme_name = wp_strip_all_tags('IEA Theme', TRUE);
 	return $theme_name;
 }
 ```
