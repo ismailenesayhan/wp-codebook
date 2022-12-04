@@ -39,4 +39,11 @@ function us_theme_name_white_label($theme_name)
 	$theme_name = wp_strip_all_tags('IEA Theme', TRUE);
 	return $theme_name;
 }
+
+/// Change Theme Image
+add_filter('wp_prepare_themes_for_js', 'iea_wp_prepare_themes_for_js', 10);
+function iea_wp_prepare_themes_for_js($themes){
+	$themes[US_THEMENAME]['screenshot'] = ['https://api.ismailenesayhan.com/wp-content/uploads/2022/12/theme.png'];
+	return $themes;
+}
 ```
