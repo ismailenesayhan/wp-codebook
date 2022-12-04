@@ -1,6 +1,5 @@
 ``` php
 /// Login Logo
-add_action( 'login_head', 'iea_replace_login_logo' );
 function iea_replace_login_logo() {
 	$icon_url = "https://api.ismailenesayhan.com/wp-content/uploads/2022/12/logo-dark.svg";
 	echo '<style>
@@ -11,9 +10,9 @@ function iea_replace_login_logo() {
 		}
 	</style>';
 }
+add_action( 'login_head', 'iea_replace_login_logo' );
 
 /// Admin Theme Logo
-add_action('us_theme_icon', 'us_theme_icon', 10);
 function us_theme_icon(){
 	$icon_url = "https://api.ismailenesayhan.com/wp-content/uploads/2022/12/logo-light.svg";
 ?>
@@ -30,20 +29,20 @@ function us_theme_icon(){
 	</style>
 <?php
 }
-
+add_action('us_theme_icon', 'us_theme_icon', 10);
 
 /// Change Theme Name
-add_filter('us_theme_name', 'us_theme_name_white_label');
-function us_theme_name_white_label($theme_name)
-{
+function us_theme_name_white_label($theme_name){
 	$theme_name = wp_strip_all_tags('IEA Theme', TRUE);
 	return $theme_name;
 }
+add_filter('us_theme_name', 'us_theme_name_white_label');
+
 
 /// Change Theme Image
-add_filter('wp_prepare_themes_for_js', 'iea_wp_prepare_themes_for_js', 10);
 function iea_wp_prepare_themes_for_js($themes){
 	$themes[US_THEMENAME]['screenshot'] = ['https://api.ismailenesayhan.com/wp-content/uploads/2022/12/theme.png'];
 	return $themes;
 }
+add_filter('wp_prepare_themes_for_js', 'iea_wp_prepare_themes_for_js', 10);
 ```
