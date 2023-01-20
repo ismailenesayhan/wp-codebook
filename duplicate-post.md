@@ -4,7 +4,6 @@
  * Add Duplicate Function
  */
  
-<?php
 function iea_duplicate_post_as_draft()
 {
     global $wpdb;
