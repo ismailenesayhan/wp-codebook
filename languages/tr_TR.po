@@ -1,0 +1,6040 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UpSolution Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-02 12:31+0000\n"
+"PO-Revision-Date: 2023-04-02 16:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: us\n"
+
+#: config/theme-options.php:753 config/elements/add_to_cart.php:15
+#, php-format
+msgid "\"%s\" Button"
+msgstr ""
+
+#: config/assets.php:91 config/assets.php:97
+#, php-format
+msgid "\"%s\" icons"
+msgstr ""
+
+#: functions/grid.php:1524
+#, php-format
+msgid "\"%s\" value from \"%s\" box"
+msgstr ""
+
+#: config/theme-options.php:2062
+msgid ""
+"\"Slide background from the top\" may not work with buttons of 3rd-party "
+"plugins."
+msgstr ""
+
+#: config/theme-options.php:415
+#, php-format
+msgid "%s different images sizes are registered."
+msgstr ""
+
+#: templates/form/form.php:63 functions/ajax/cform.php:140
+#, php-format
+msgid "%s file type is not allowed"
+msgstr "%s Dosya biçimi desteklenmiyor"
+
+#: config/assets.php:365 config/assets.php:781
+#, php-format
+msgid "%s Maps"
+msgstr ""
+
+#: templates/elements/post_author.php:103
+#, php-format
+msgid "%s post"
+msgid_plural "%s posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/functions/theme-updater.php:176 admin/functions/theme-updater.php:192
+#: admin/functions/theme-updater.php:209
+#, php-format
+msgid "%sActivate the theme%s to update it"
+msgstr ""
+
+#: config/grid-templates.php:15
+msgid "(for several columns)"
+msgstr ""
+
+#: config/grid-templates.php:1058
+msgid "(for single column)"
+msgstr ""
+
+#: config/elements/cform.php:68
+msgid "(multiple lines)"
+msgstr ""
+
+#: config/elements/cform.php:67 usof/templates/fields/group_param.php:52
+#: usof/templates/fields/group_param.php:53
+msgid "(single line)"
+msgstr ""
+
+#: config/grid-templates.php:1750
+msgid "(without images)"
+msgstr ""
+
+#: config/elements/popup.php:186 config/elements/popup.php:187
+msgid "3D Flip"
+msgstr ""
+
+#: admin/functions/demo-import.php:251
+#, php-format
+msgid "<a href=\"%s\">Activate the theme</a> to unlock Demo Import"
+msgstr ""
+
+#: config/meta-boxes.php:124
+msgid "Above the first content row"
+msgstr ""
+
+#: config/elements/flipbox.php:206
+msgid "Above Title"
+msgstr ""
+
+#: config/elements/cform.php:164
+msgid "Accepted file types"
+msgstr ""
+
+#: config/elements/scroller.php:15
+msgid "Accurate scroll to page sections"
+msgstr ""
+
+#: config/elements/grid.php:385
+msgid "Action when no results found"
+msgstr ""
+
+#: config/assets.php:103 config/elements/cta.php:16
+msgid "ActionBox"
+msgstr ""
+
+#: config/elements/product_field.php:36
+msgid "Actions for plugins compatibility"
+msgstr ""
+
+#: config/white-label.php:17
+msgid "Activate White Label"
+msgstr ""
+
+#: config/elements/additional_menu.php:209
+#: config/elements/wc_account_navigation.php:208 config/elements/menu.php:124
+#: config/elements/menu.php:137
+msgid "Active Menu Item Background"
+msgstr ""
+
+#: config/elements/additional_menu.php:220
+#: config/elements/wc_account_navigation.php:219 config/elements/menu.php:131
+#: config/elements/menu.php:144
+msgid "Active Menu Item Text"
+msgstr ""
+
+#: config/elements/socials.php:192
+#, php-format
+msgid "Add \"%s\" attribute"
+msgstr ""
+
+#: config/theme-options.php:1960
+#, php-format
+msgid "Add custom fonts via uploading %s files."
+msgstr ""
+
+#: usof/templates/window_add.php:11 usof/templates/fields/grid_builder.php:137
+#: usof/templates/fields/header_builder.php:203
+msgid "Add element"
+msgstr ""
+
+#: usof/templates/fields/grid_builder.php:69
+#: usof/templates/fields/grid_builder.php:201
+#: usof/templates/fields/header_builder.php:74
+#: usof/templates/fields/header_builder.php:282
+msgid "Add element into wrapper"
+msgstr ""
+
+#: config/elements/vc_row.php:642
+msgid "Add extra padding around columns content"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:38
+msgid "Add FAQ structured data markup"
+msgstr ""
+
+#: functions/post-types.php:209 functions/post-types.php:210
+#: config/elements/grid.php:512
+msgid "Add Grid Layout"
+msgstr ""
+
+#: functions/shortcodes.php:300
+msgid "Add indents between items"
+msgstr ""
+
+#: config/elements_misc.php:99
+#, php-format
+msgid "Add or edit a Footer on the %s page"
+msgstr ""
+
+#: config/elements_misc.php:93
+#, php-format
+msgid "Add or edit a Header on the %s page"
+msgstr ""
+
+#: config/elements_misc.php:84
+#, php-format
+msgid "Add or edit a menu on the %s page"
+msgstr ""
+
+#: config/elements_misc.php:96
+#, php-format
+msgid "Add or edit a Page Template on the %s page"
+msgstr ""
+
+#: config/elements/dropdown.php:69
+#, php-format
+msgid "Add or edit a Sidebar on the %s page"
+msgstr ""
+
+#: config/elements_misc.php:90
+#, php-format
+msgid "Add or edit Button Styles on %sTheme Options%s"
+msgstr ""
+
+#: functions/post-types.php:259 functions/post-types.php:260
+msgid "Add Page Template"
+msgstr ""
+
+#: config/theme-options.php:2952 config/theme-options.php:2954
+#: functions/post-types.php:58 functions/post-types.php:59
+msgid "Add Portfolio Page"
+msgstr ""
+
+#: functions/post-types.php:283 functions/post-types.php:284
+msgid "Add Reusable Block"
+msgstr ""
+
+#: functions/widget_areas.php:40
+msgid "Add Sidebar"
+msgstr ""
+
+#: functions/post-types.php:163 functions/post-types.php:164
+msgid "Add Testimonial"
+msgstr ""
+
+#: usof/usof.php:353 usof/functions/ajax.php:273 usof/functions/ajax.php:292
+msgid "Add the current color to the palette"
+msgstr ""
+
+#: config/elements/html.php:21
+#, php-format
+msgid "Added content will be displayed inside the %s block"
+msgstr ""
+
+#: config/elements/vc_row.php:633
+msgid "Additional gap"
+msgstr ""
+
+#: config/theme-options.php:1934 functions/helpers.php:1322
+msgid "Additional Google Fonts"
+msgstr ""
+
+#: config/theme-options.php:3410
+msgid "Additional Image Sizes"
+msgstr ""
+
+#: config/elements/gmaps.php:133
+msgid "Additional Markers"
+msgstr ""
+
+#: config/elements/image_slider.php:40
+msgid "Additional Navigation"
+msgstr ""
+
+#: config/widgets.php:94 config/elements/gmaps.php:29
+#: config/elements/gmaps.php:96 config/elements/contacts.php:20
+msgid "Address"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds plenty of features for Impreza and Zephyr themes."
+msgstr ""
+
+#: config/theme-options.php:3491
+msgctxt "Advanced Settings"
+msgid "Advanced"
+msgstr ""
+
+#: config/elements/cart_table.php:115
+msgid "After Subtotal"
+msgstr ""
+
+#: config/elements/btn.php:123 config/elements/text.php:108
+msgid "After text"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:98
+#: config/elements/vc_tta_section.php:51
+msgid "After title"
+msgstr ""
+
+#: config/elements/cform.php:76
+msgid "Agreement checkbox"
+msgstr ""
+
+#: functions/ajax/cform.php:167
+msgid "Agreement date and time"
+msgstr ""
+
+#: functions/ajax/cform.php:166
+msgid "Agreement text"
+msgstr ""
+
+#: config/elements/menu.php:64
+msgid "Align the first/last menu item to the header edge"
+msgstr ""
+
+#: templates/us_grid/listing.php:280 templates/elements/grid_filter.php:521
+#: templates/elements/grid_filter.php:735 config/elements/cart_table.php:41
+msgid "All"
+msgstr ""
+
+#: usof/templates/fields/check_table.php:72
+msgid "All sizes in kilobytes"
+msgstr ""
+
+#: config/theme-options.php:3103 config/elements/image_slider.php:89
+msgid "Allow Full Screen view"
+msgstr ""
+
+#: config/elements/text.php:36
+msgid "Allow move content to the next line"
+msgstr ""
+
+#: config/elements/hwrapper.php:85
+msgid "Allow move items to the next line"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:17
+msgid "Allow several sections to be opened at the same time"
+msgstr ""
+
+#: config/elements/sharing.php:83
+msgid "Allow to share selected text"
+msgstr ""
+
+#: config/theme-options.php:1603 config/theme-options.php:1684
+#: config/theme-options.php:1765 config/theme-options.php:1821
+msgid "Alternate Background"
+msgstr ""
+
+#: config/elements/cta.php:78
+msgid "Alternate bg & Content text"
+msgstr ""
+
+#: config/theme-options.php:1671 config/elements/vc_row.php:232
+msgid "Alternate Content colors"
+msgstr ""
+
+#: config/theme-options.php:1808 config/elements/vc_row.php:236
+msgid "Alternate Footer colors"
+msgstr ""
+
+#: config/theme-options.php:1537
+msgid "Alternate Header colors"
+msgstr ""
+
+#: config/elements_conditional_options.php:346
+msgid "Always"
+msgstr ""
+
+#: config/elements/post_content.php:69
+msgid "Amount of words in Content"
+msgstr ""
+
+#: config/elements/post_content.php:55
+msgid "Amount of words in Excerpt"
+msgstr ""
+
+#: usof/usof.php:370
+msgid "Angle"
+msgstr ""
+
+#: config/elements/counter.php:15
+msgid "Animated number with text"
+msgstr ""
+
+#: config/assets.php:119 config/elements_design_options.php:535
+#: config/elements_design_options.php:543 config/elements/menu.php:239
+#: config/elements/itext.php:95
+msgid "Animation"
+msgstr ""
+
+#: config/elements_design_options.php:538 config/elements/itext.php:124
+msgid "Animation Delay"
+msgstr ""
+
+#: config/elements/flipbox.php:374
+msgid "Animation Direction"
+msgstr ""
+
+#: config/elements/counter.php:36 config/elements/flipbox.php:392
+#: config/elements/itext.php:109
+msgid "Animation Duration"
+msgstr ""
+
+#: config/elements/ibanner.php:130 config/elements/flipbox.php:410
+msgid "Animation Easing"
+msgstr ""
+
+#: config/elements/popup.php:178 config/elements/ibanner.php:110
+#: config/elements/flipbox.php:360
+msgid "Animation Type"
+msgstr ""
+
+#: config/theme-options.php:1066
+msgid "Animations Disable Width"
+msgstr ""
+
+#: functions/helpers.php:2172 functions/helpers.php:2174
+msgid "any"
+msgstr ""
+
+#: config/elements_misc.php:29 config/elements_design_options.php:528
+#: config/elements/grid.php:580 config/elements/menu.php:245
+msgid "Appear From Bottom"
+msgstr ""
+
+#: config/elements_design_options.php:525 config/elements/grid.php:577
+#: config/elements/menu.php:244
+msgid "Appear From Center"
+msgstr ""
+
+#: config/elements_design_options.php:526 config/elements/grid.php:578
+#: config/elements/menu.php:231
+msgid "Appear From Left"
+msgstr ""
+
+#: config/elements_design_options.php:527 config/elements/grid.php:579
+#: config/elements/menu.php:232
+msgid "Appear From Right"
+msgstr ""
+
+#: config/elements_design_options.php:529 config/elements/grid.php:581
+#: config/elements/menu.php:243
+msgid "Appear From Top"
+msgstr ""
+
+#: plugins-support/js_composer/js_composer.php:1188
+msgid "Append Section"
+msgstr ""
+
+#: config/elements/grid.php:701
+msgid ""
+"Applies to every item of this Grid. All Grid Layout elements become not "
+"clickable."
+msgstr ""
+
+#: config/elements/person.php:95
+msgid "Applies to the Name and to the Photo"
+msgstr ""
+
+#: config/theme-options.php:1277 functions/post-types.php:1224
+#: functions/post-types.php:1229 functions/post-types.php:1234
+#: functions/meta-tags.php:251
+msgid "Archives Layout"
+msgstr ""
+
+#: usof/templates/fields/grid_builder.php:199
+#: usof/templates/fields/header_builder.php:280
+msgid ""
+"Are you sure want to change the header orientation? Some of your elements' "
+"positions may be changed"
+msgstr ""
+
+#: usof/templates/field.php:135 usof/templates/fields/grid_builder.php:200
+#: usof/templates/fields/header_builder.php:281
+#: usof/templates/fields/style_scheme.php:78
+msgid "Are you sure want to delete the element?"
+msgstr ""
+
+#: usof/templates/fields/reset.php:24
+msgid "Are you sure want to reset all the options to default values?"
+msgstr ""
+
+#: usof/templates/fields/backup.php:40
+msgid "Are you sure want to restore options from the backup?"
+msgstr ""
+
+#: config/header-settings.php:175 config/header-settings.php:301
+#: config/header-settings.php:497
+msgid "Area Height"
+msgstr ""
+
+#: config/elements/page_block.php:48 config/elements/post_content.php:41
+msgid "Around this element"
+msgstr ""
+
+#: config/menu-dropdown.php:187 config/elements/menu.php:285
+msgid "Arrow"
+msgstr ""
+
+#: config/elements/carousel.php:117
+msgid "Arrows Offset"
+msgstr ""
+
+#: config/elements/carousel.php:101
+msgid "Arrows Position"
+msgstr ""
+
+#: config/elements/carousel.php:73
+msgid "Arrows Size"
+msgstr ""
+
+#: config/elements/carousel.php:54
+msgid "Arrows Style"
+msgstr ""
+
+#: config/theme-options.php:227 config/theme-options.php:241
+#: config/theme-options.php:256 config/theme-options.php:268
+#: config/theme-options.php:297 config/theme-options.php:1387
+#: config/theme-options.php:1400 config/theme-options.php:1414
+#: config/theme-options.php:1425 config/theme-options.php:1452
+msgid "As in Archives"
+msgstr ""
+
+#: config/elements/grid.php:645 config/elements/grid.php:665
+msgid "As in Grid Layout"
+msgstr ""
+
+#: functions/helpers.php:1392
+msgid "As in Heading 1"
+msgstr ""
+
+#: config/theme-options.php:126 config/theme-options.php:140
+#: config/theme-options.php:155 config/theme-options.php:168
+#: config/theme-options.php:197 config/theme-options.php:1295
+#: config/theme-options.php:1310 config/theme-options.php:1335
+#: config/theme-options.php:1363 config/theme-options.php:3125
+#: config/theme-options.php:3138 config/theme-options.php:3163
+#: config/theme-options.php:3190 config/theme-options.php:3210
+#: config/theme-options.php:3223 config/theme-options.php:3269
+#: config/theme-options.php:3296
+msgid "As in Pages"
+msgstr ""
+
+#: config/theme-options.php:329 config/theme-options.php:343
+#: config/theme-options.php:358 config/theme-options.php:370
+#: config/theme-options.php:399
+msgid "As in Shop Page"
+msgstr ""
+
+#: config/meta-boxes.php:78 config/meta-boxes.php:140 config/meta-boxes.php:156
+#: config/meta-boxes.php:170 config/meta-boxes.php:200
+#: functions/meta-tags.php:202
+msgid "As in Theme Options"
+msgstr ""
+
+#: config/elements/vc_row.php:501
+msgid "As on Desktops"
+msgstr ""
+
+#: config/elements/vc_row.php:534
+msgid "As on Laptops"
+msgstr ""
+
+#: config/elements/ibanner.php:92 config/elements/vc_video.php:63
+msgid "Aspect Ratio"
+msgstr ""
+
+#: config/meta-boxes.php:123
+msgid "At the Bottom of the first content row"
+msgstr ""
+
+#: config/meta-boxes.php:122
+msgid "At the Top of this page"
+msgstr ""
+
+#: config/meta-boxes.php:307 config/elements/post_custom_field.php:26
+msgid "Author Company"
+msgstr ""
+
+#: config/meta-boxes.php:313 functions/helpers.php:2345
+msgid "Author Link"
+msgstr ""
+
+#: config/meta-boxes.php:295 config/elements/post_custom_field.php:24
+msgid "Author Name"
+msgstr ""
+
+#: functions/post-types.php:166
+msgid "Author Photo"
+msgstr ""
+
+#: config/meta-boxes.php:301 config/elements/post_custom_field.php:25
+msgid "Author Role"
+msgstr ""
+
+#: config/theme-options.php:1376 functions/post-types.php:919
+msgid "Authors"
+msgstr ""
+
+#: config/elements/carousel.php:194
+msgid "Auto height (for 1 column only)"
+msgstr ""
+
+#: usof/templates/fields/check_table.php:39
+msgid "Auto Optimize"
+msgstr ""
+
+#: config/elements/carousel.php:210 config/elements/carousel.php:308
+#: config/elements/carousel.php:353 config/elements/carousel.php:398
+#: config/elements/image_slider.php:95
+msgid "Auto Rotation"
+msgstr ""
+
+#: config/elements/vc_row.php:416 config/elements/carousel.php:217
+#: config/elements/image_slider.php:107
+msgid "Auto Rotation Interval"
+msgstr ""
+
+#: config/header-settings.php:91
+msgid "Auto-hide on scroll down"
+msgstr ""
+
+#: config/elements/flipbox.php:222 config/elements/flipbox.php:224
+#: config/elements/flipbox.php:237 config/elements/flipbox.php:247
+#: config/elements/flipbox.php:257 config/elements/flipbox.php:266
+#: config/elements/flipbox.php:279 config/elements/flipbox.php:289
+#: config/elements/flipbox.php:300
+msgid "Back Side"
+msgstr ""
+
+#: config/theme-options.php:753
+msgid "Back to Top"
+msgstr ""
+
+#: templates/footer.php:72 templates/footer.php:73
+msgid "Back to top"
+msgstr ""
+
+#: config/elements_design_options.php:135
+#: config/elements_design_options.php:141
+#: config/elements_design_options.php:149
+#: config/elements_design_options.php:158
+#: config/elements_design_options.php:172
+#: config/elements_design_options.php:184
+msgid "Background"
+msgstr ""
+
+#: config/elements_design_options.php:176
+msgid "Background Attachment"
+msgstr ""
+
+#: config/meta-boxes.php:269 config/grid-settings.php:107
+#: config/menu-dropdown.php:117 config/elements/vc_video.php:104
+#: config/elements/flipbox.php:68 config/elements/flipbox.php:261
+#: config/elements/vc_tta_section.php:57
+msgid "Background Color"
+msgstr ""
+
+#: config/grid-settings.php:122 config/header-settings.php:362
+#: config/elements_design_options.php:138 config/menu-dropdown.php:132
+#: config/elements/vc_row.php:246 config/elements/flipbox.php:93
+#: config/elements/flipbox.php:286
+msgid "Background Image"
+msgstr ""
+
+#: config/theme-options.php:1658 config/theme-options.php:1739
+#: config/elements/popup.php:272 config/elements/vc_row.php:427
+#: config/elements/vc_column.php:49
+msgid "Background Overlay"
+msgstr ""
+
+#: config/grid-settings.php:154 config/header-settings.php:392
+#: config/elements_design_options.php:144 config/theme-options.php:939
+#: config/menu-dropdown.php:159 config/elements/vc_row.php:274
+msgid "Background Position"
+msgstr ""
+
+#: config/grid-settings.php:172 config/header-settings.php:381
+#: config/elements_design_options.php:162 config/theme-options.php:928
+#: config/menu-dropdown.php:147 config/elements/vc_row.php:298
+msgid "Background Repeat"
+msgstr ""
+
+#: config/grid-settings.php:145 config/header-settings.php:371
+#: config/elements_design_options.php:153 config/theme-options.php:918
+#: config/menu-dropdown.php:136 config/elements/vc_row.php:258
+msgid "Background Size"
+msgstr ""
+
+#: config/elements_design_options.php:131
+msgid "Background Сolor"
+msgstr ""
+
+#: config/elements_hover_options.php:178
+msgid "Background Сolor on Hover"
+msgstr ""
+
+#: usof/templates/fields/backup.php:29
+msgid "Backup Options"
+msgstr ""
+
+#: config/theme-options.php:3718
+msgid "Backup Theme Options"
+msgstr ""
+
+#: usof/functions/ajax.php:133
+msgid "Backup was restored"
+msgstr ""
+
+#: config/elements/post_taxonomy.php:48
+msgid "Badge by default"
+msgstr ""
+
+#: config/elements/image.php:17 config/elements/separator.php:16
+#: config/elements/btn.php:18 config/elements/vc_column_text.php:15
+#: config/elements/iconbox.php:15 config/elements/text.php:18
+msgid "Basic"
+msgstr ""
+
+#: config/elements/cform.php:296
+msgid "BCC Email"
+msgstr ""
+
+#: config/elements/btn.php:122 config/elements/text.php:107
+msgid "Before text"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:97
+#: config/elements/vc_tta_section.php:50
+msgid "Before title"
+msgstr ""
+
+#: config/elements/flipbox.php:208
+msgid "Below Description"
+msgstr ""
+
+#: config/elements/cart_table.php:116
+msgid "Below Quantity"
+msgstr ""
+
+#: config/elements/grid.php:780 config/elements/grid.php:807
+#: config/elements/grid.php:834 config/elements/separator.php:181
+#: config/elements/separator.php:204 config/elements/carousel.php:270
+#: config/elements/carousel.php:315 config/elements/carousel.php:360
+msgid "Below screen width"
+msgstr ""
+
+#: config/meta-boxes.php:125
+msgid "Below the first content row"
+msgstr ""
+
+#: config/elements/image.php:132
+msgid "Below the image"
+msgstr ""
+
+#: config/elements/flipbox.php:207
+msgid "Below Title"
+msgstr ""
+
+#: config/elements/cart_table.php:42
+msgid "Between"
+msgstr ""
+
+#: config/theme-options.php:3463
+msgid "Big Image Size Threshold"
+msgstr ""
+
+#: config/color-schemes.php:581 config/elements/person.php:126
+msgid "Black & White"
+msgstr ""
+
+#: config/color-schemes.php:1308
+msgid "Black Gold"
+msgstr ""
+
+#: config/elements/cform.php:297
+msgid "Blind copy will be sent to this email."
+msgstr ""
+
+#: config/grid-templates.php:15 config/grid-templates.php:1058
+#: config/grid-templates.php:1750
+msgid "Blog Templates"
+msgstr ""
+
+#: config/elements/message.php:25
+msgid "Blue"
+msgstr ""
+
+#: config/elements_design_options.php:459
+#: config/elements_design_options.php:494 config/theme-options.php:2177
+#: config/theme-options.php:2262 config/theme-options.php:2607
+#: config/theme-options.php:2692
+msgid "Blur"
+msgstr ""
+
+#: config/theme-options.php:898
+msgid "Body Background Color"
+msgstr ""
+
+#: config/theme-options.php:903
+msgid "Body Background Image"
+msgstr ""
+
+#: config/elements_design_options.php:94 config/elements/counter.php:137
+#: config/elements/vc_tta_tabs.php:82 config/elements/vc_tta_tour.php:116
+#: usof/templates/fields/font.php:181 usof/templates/fields/font.php:182
+msgid "bold"
+msgstr ""
+
+#: config/elements_design_options.php:319
+#: config/elements_design_options.php:327
+#: config/elements_design_options.php:335
+#: config/elements_design_options.php:351
+#: config/elements_design_options.php:360
+#: config/elements_design_options.php:369
+#: config/elements_design_options.php:378
+msgid "Border"
+msgstr ""
+
+#: config/elements/separator.php:90 config/elements/iconbox.php:114
+msgid "Border (theme color)"
+msgstr ""
+
+#: config/grid-settings.php:187 config/elements_design_options.php:322
+#: config/theme-options.php:2405 config/theme-options.php:2849
+msgid "Border Radius"
+msgstr ""
+
+#: config/elements_design_options.php:308
+msgid "Border Style"
+msgstr ""
+
+#: config/elements_design_options.php:330 config/theme-options.php:2380
+#: config/theme-options.php:2824
+msgid "Border Width"
+msgstr ""
+
+#: config/elements_design_options.php:373
+msgid "Border Сolor"
+msgstr ""
+
+#: config/elements_hover_options.php:188
+msgid "Border Сolor on Hover"
+msgstr ""
+
+#: usof/templates/fields/header_builder.php:225
+msgid "Bottom Area"
+msgstr ""
+
+#: config/theme-options.php:563
+msgid "Bottom indent"
+msgstr ""
+
+#: config/theme-options.php:1042
+msgid "Bottom Indent of Text Blocks"
+msgstr ""
+
+#: config/elements_design_options.php:532
+msgid "Bounce"
+msgstr ""
+
+#: config/elements_design_options.php:483
+#: config/elements_design_options.php:491
+#: config/elements_design_options.php:499
+#: config/elements_design_options.php:507
+#: config/elements_design_options.php:515
+msgid "Box Shadow"
+msgstr ""
+
+#: config/elements/breadcrumbs.php:14
+msgid "Breadcrumbs"
+msgstr ""
+
+#: config/theme-options.php:1524
+msgid "Browser Toolbar"
+msgstr ""
+
+#: config/assets.php:142 config/theme-options.php:2461
+#: config/elements/cform.php:207 config/elements/cform.php:219
+#: config/elements/cform.php:231 config/elements/cform.php:243
+#: config/elements/cform.php:261 config/elements/cform.php:269
+#: config/elements/cform.php:280 config/elements/post_taxonomy.php:37
+#: config/elements/cta.php:105 config/elements/cta.php:115
+#: config/elements/cta.php:124 config/elements/cta.php:135
+#: config/elements/cta.php:145 config/elements/cta.php:156
+#: config/elements/cta.php:167 config/elements/cta.php:175
+#: config/elements/cta.php:186 config/elements/cta.php:196
+#: config/elements/cta.php:208 config/elements/cta.php:219
+#: config/elements/cta.php:231 config/elements/btn.php:16
+#: usof/templates/fields/grid_builder.php:94
+#: usof/templates/fields/header_builder.php:161
+#: usof/templates/fields/header_builder.php:292
+msgid "Button"
+msgstr ""
+
+#: config/elements/cform.php:250
+msgid "Button Alignment"
+msgstr ""
+
+#: config/theme-options.php:788
+msgid "Button Color"
+msgstr ""
+
+#: config/elements/pricing.php:146
+msgid "Button Icon"
+msgstr ""
+
+#: config/elements/pricing.php:151
+msgid "Button Icon Position"
+msgstr ""
+
+#: config/theme-options.php:847 config/elements/cform.php:204
+#: config/elements/popup.php:70 config/elements/checkout_payment.php:44
+#: config/elements/grid_filter.php:225 config/elements/cart_totals.php:68
+#: config/elements/grid.php:446 config/elements/cta.php:102
+#: config/elements/cta.php:171 config/elements/btn.php:26
+#: config/elements/pricing.php:123 config/elements/flipbox.php:327
+#: config/elements/wc_coupon_form.php:40
+msgid "Button Label"
+msgstr ""
+
+#: config/elements/pricing.php:128
+msgid "Button Link"
+msgstr ""
+
+#: config/elements/flipbox.php:313
+msgid "Button on the Back Side"
+msgstr ""
+
+#: config/theme-options.php:776
+msgid "Button Position"
+msgstr ""
+
+#: config/elements/popup.php:80 config/elements/checkout_payment.php:64
+#: config/elements/cart_totals.php:88 config/elements/grid.php:455
+#: config/elements/pricing.php:140 config/elements/flipbox.php:336
+msgid "Button Size"
+msgstr ""
+
+#: config/theme-options.php:765 config/theme-options.php:853
+#: config/elements/post_taxonomy.php:44 config/elements/popup.php:90
+#: config/elements/checkout_payment.php:53 config/elements/grid_filter.php:235
+#: config/elements/cart_totals.php:77 config/elements/grid.php:465
+#: config/elements/pricing.php:133 config/elements/flipbox.php:346
+#: config/elements/wc_coupon_form.php:49
+msgid "Button Style"
+msgstr ""
+
+#: config/theme-options.php:2055
+msgid "Button Style Name"
+msgstr ""
+
+#: config/theme-options.php:2037
+msgid "Button Styles"
+msgstr ""
+
+#: config/elements/cta.php:86
+msgid "Buttons Location"
+msgstr ""
+
+#: config/widgets.php:226
+msgid "By date of creation (newer first)"
+msgstr ""
+
+#: config/widgets.php:227
+msgid "By date of creation (older first)"
+msgstr ""
+
+#: config/widgets.php:228
+msgid "By date of update (newer first)"
+msgstr ""
+
+#: config/widgets.php:229
+msgid "By date of update (older first)"
+msgstr ""
+
+#: config/header-settings.php:27
+msgid "By default, header states are changed via the global breakpoints:"
+msgstr ""
+
+#: config/elements/grid.php:369
+msgid "by the given quantity from the beginning of output"
+msgstr ""
+
+#: config/widgets.php:230 config/elements/grid.php:338
+msgid "By title"
+msgstr ""
+
+#: functions/ajax/cform.php:323
+msgid "Cannot send the message. Please contact the website administrator."
+msgstr "Hata oluştu mesajınız gönderilemedi! Lütfen bizimle iletişim kurunuz."
+
+#: config/elements/cform.php:77
+msgid "Captcha"
+msgstr "Doğrulama"
+
+#: config/elements/flipbox.php:363
+msgid "Card Flip"
+msgstr ""
+
+#: config/elements/person.php:111 config/elements/pricing.php:76
+msgid "Cards"
+msgstr ""
+
+#: config/assets.php:210 config/elements/carousel.php:35
+#: config/elements/carousel.php:50 config/elements/carousel.php:66
+#: config/elements/carousel.php:94 config/elements/carousel.php:110
+#: config/elements/carousel.php:138 config/elements/carousel.php:155
+#: config/elements/carousel.php:162 config/elements/carousel.php:171
+#: config/elements/carousel.php:180 config/elements/carousel.php:189
+#: config/elements/carousel.php:197 config/elements/carousel.php:205
+#: config/elements/carousel.php:213 config/elements/carousel.php:229
+#: config/elements/carousel.php:238 config/elements/carousel.php:253
+#: config/elements/carousel.php:262
+msgid "Carousel"
+msgstr ""
+
+#: config/elements_conditional_options.php:75
+msgid "Cart State"
+msgstr ""
+
+#: config/elements_conditional_options.php:310
+msgctxt "Cart State"
+msgid "Empty"
+msgstr ""
+
+#: config/elements_conditional_options.php:311
+msgctxt "Cart State"
+msgid "Not Empty"
+msgstr ""
+
+#: config/elements_conditional_options.php:76
+msgid "Cart Total"
+msgstr ""
+
+#: config/theme-options.php:3000
+msgid "Catalog Mode"
+msgstr ""
+
+#: config/elements/cart_table.php:52 config/elements/grid.php:554
+msgid "Center items vertically"
+msgstr ""
+
+#: config/header-settings.php:222 config/header-settings.php:340
+#: config/header-settings.php:543
+msgid "Center the middle cell"
+msgstr ""
+
+#: config/elements_hover_options.php:11
+msgid "Change appearance of this element when hover on the whole Grid Layout"
+msgstr ""
+
+#: config/elements/vc_row.php:192
+#, php-format
+msgid "Change the default value in %sTheme Options%s"
+msgstr ""
+
+#: config/header-settings.php:36
+msgid "Change them in Theme Options"
+msgstr ""
+
+#: config/assets.php:226
+msgid "Charts"
+msgstr ""
+
+#: config/elements/gmaps.php:201 config/elements/gmaps.php:210
+#, php-format
+msgid "Check available styles on %s."
+msgstr ""
+
+#: config/elements/vc_video.php:43
+#, php-format
+msgid "Check supported formats on %s"
+msgstr ""
+
+#: config/elements/cform.php:72 config/elements/grid_filter.php:68
+msgid "Checkboxes"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:83
+msgid "Chevron"
+msgstr ""
+
+#: config/elements/grid.php:197
+msgid "Child terms of current taxonomy"
+msgstr ""
+
+#: admin/functions/grid-builder.php:69
+msgid "Choose Grid Layout Template to start with"
+msgstr ""
+
+#: admin/functions/header-builder.php:93
+msgid "Choose Header template to start with"
+msgstr ""
+
+#: admin/functions/demo-import.php:50
+msgid "Choose the demo for import"
+msgstr ""
+
+#: config/widgets.php:296 config/elements/image.php:67
+#: config/elements/socials.php:96
+msgid "Circle"
+msgstr ""
+
+#: config/elements/carousel.php:59
+msgid "Circles"
+msgstr ""
+
+#: config/color-schemes.php:1253
+msgid "City Hunter"
+msgstr ""
+
+#: config/elements/popup.php:72 config/elements/dropdown.php:103
+#: config/elements/cta.php:104 config/elements/cta.php:173
+#: config/elements/btn.php:28 config/elements/flipbox.php:329
+msgid "Click Me"
+msgstr ""
+
+#: admin/functions/demo-import.php:259
+msgid "Click to choose"
+msgstr ""
+
+#: config/elements/post_custom_field.php:204 config/elements/btn.php:42
+#: config/elements/text.php:48
+msgid "Clickable value (email, phone, website)"
+msgstr ""
+
+#: config/elements/popup.php:281
+msgid "Close Button"
+msgstr ""
+
+#: config/elements/popup.php:194
+msgid "Close Button Position"
+msgstr ""
+
+#: config/theme-options.php:3695 config/theme-options.php:3701
+#, php-format
+msgid "Code before %s"
+msgstr ""
+
+#: config/color-schemes.php:986
+msgid "Coffee Shop"
+msgstr ""
+
+#: usof/templates/fields/style_scheme.php:44
+msgctxt "color scheme"
+msgid "Save as new"
+msgstr ""
+
+#: usof/templates/fields/style_scheme.php:42
+msgid "Color Scheme Name"
+msgstr ""
+
+#: usof/functions/interface.php:75 usof/templates/fields/style_scheme.php:34
+msgid "Color Schemes"
+msgstr ""
+
+#: usof/usof.php:364
+msgctxt "color type"
+msgid "Gradient"
+msgstr ""
+
+#: usof/usof.php:360
+msgctxt "color type"
+msgid "Solid"
+msgstr ""
+
+#: config/elements/person.php:128
+msgid "Colored"
+msgstr ""
+
+#: config/elements/image.php:70
+msgid "Colored Shadow"
+msgstr ""
+
+#: usof/templates/fields/color.php:70
+msgid "Colors from the Color Scheme"
+msgstr ""
+
+#: config/theme-options.php:2510
+msgid "Colors on focus"
+msgstr ""
+
+#: config/theme-options.php:2082
+msgid "Colors on hover"
+msgstr ""
+
+#: config/elements/vc_column.php:81
+msgid "Column"
+msgstr ""
+
+#: config/elements/vc_row.php:618
+msgid "Columns Content Position"
+msgstr ""
+
+#: config/menu-dropdown.php:75
+msgid "Columns for sub-items"
+msgstr ""
+
+#: config/theme-options.php:3507
+msgid "Columns Layout via CSS grid"
+msgstr ""
+
+#: config/theme-options.php:1080 config/elements/vc_row.php:664
+msgid "Columns Stacking Width"
+msgstr ""
+
+#: config/elements/post_comments.php:27
+msgid "Comments amount"
+msgstr ""
+
+#: config/grid-templates.php:3553 config/theme-options.php:3337
+#: config/elements/person.php:107
+msgid "Compact"
+msgstr ""
+
+#: config/elements/person.php:108
+msgid "Compact (rounded photo)"
+msgstr ""
+
+#: config/elements/cform.php:48
+msgid "Contact Form"
+msgstr ""
+
+#: config/elements/vwrapper.php:16 config/elements/vc_tta_accordion.php:114
+#: config/elements/vc_tta_tabs.php:176 config/elements/hwrapper.php:16
+#: config/elements/vc_row.php:694 config/elements/vc_column_inner.php:10
+#: config/elements/vc_tta_section.php:83 config/elements/vc_column.php:82
+#: config/elements/vc_tta_tour.php:210 config/elements/vc_row_inner.php:50
+msgid "Containers"
+msgstr ""
+
+#: config/elements/cta.php:17
+msgid "Content box with call to action button"
+msgstr ""
+
+#: config/theme-options.php:1590 config/elements/vc_row.php:231
+msgid "Content colors"
+msgstr ""
+
+#: config/theme-options.php:3696 config/theme-options.php:3702
+#, php-format
+msgid ""
+"Content from this field will be located just before the %s tag of every site "
+"page."
+msgstr ""
+
+#: config/elements/vc_row.php:162
+msgid "Content Width"
+msgstr ""
+
+#: config/elements/carousel.php:234
+msgid "Continual Rotation"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:79
+msgid "Control Icon"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:94
+msgid "Control Position"
+msgstr ""
+
+#: config/theme-options.php:812
+msgid "Cookie Notice"
+msgstr ""
+
+#: config/assets.php:301 config/elements/counter.php:14
+msgid "Counter"
+msgstr ""
+
+#: config/elements/wc_coupon_form.php:20
+msgid "Coupon Form"
+msgstr ""
+
+#: config/elements/flipbox.php:366
+msgid "Cover Open"
+msgstr ""
+
+#: config/theme-options.php:3448
+msgid "Crop to exact dimensions"
+msgstr ""
+
+#: functions/helpers.php:2176
+msgid "cropped"
+msgstr ""
+
+#: config/theme-options.php:3690
+#, php-format
+msgid ""
+"CSS code from this field will overwrite theme styles. It will be located "
+"inside the %s tags just before the %s tag of every site page."
+msgstr ""
+
+#: config/elements/flipbox.php:365
+msgid "Cube Flip"
+msgstr ""
+
+#: config/elements/flipbox.php:364
+msgid "Cube Tilt"
+msgstr ""
+
+#: config/elements/vc_row.php:70
+msgid "Curve"
+msgstr ""
+
+#: config/elements/vc_row.php:71
+msgid "Curve (inv)"
+msgstr ""
+
+#: config/elements_conditional_options.php:156 config/grid-settings.php:37
+#: config/grid-settings.php:74 config/theme-options.php:457
+#: config/theme-options.php:1015 config/menu-dropdown.php:16
+#: config/elements/post_taxonomy.php:73 config/elements/breadcrumbs.php:58
+#: config/elements/post_custom_field.php:156
+#: config/elements/post_custom_field.php:208 config/elements/counter.php:71
+#: config/elements/grid.php:672 config/elements/post_date.php:55
+#: config/elements/image.php:96 config/elements/image.php:153
+#: config/elements/vc_video.php:26 config/elements/separator.php:30
+#: config/elements/vc_row.php:37 config/elements/vc_row.php:78
+#: config/elements/vc_row.php:167 config/elements/vc_row.php:475
+#: config/elements/btn.php:46 config/elements/post_image.php:33
+#: config/elements/post_image.php:91 config/elements/flipbox.php:116
+#: config/elements/post_title.php:32 config/elements/post_comments.php:55
+#: config/elements/text.php:52 config/elements/post_author.php:29
+msgid "Custom"
+msgstr ""
+
+#: config/meta-boxes.php:229 config/grid-settings.php:39
+#: functions/helpers.php:2338 config/elements/post_custom_field.php:14
+#: config/elements/grid.php:186 config/elements/vc_row.php:39
+msgid "Custom appearance in Grid"
+msgstr ""
+
+#: config/header-settings.php:49
+msgid "Custom Breakpoint"
+msgstr ""
+
+#: config/theme-options.php:3686
+msgid "Custom Code"
+msgstr ""
+
+#: config/elements/iconbox.php:116
+msgid "Custom colors"
+msgstr ""
+
+#: config/elements/vc_row.php:485
+msgid "Custom Columns Layout"
+msgstr ""
+
+#: config/theme-options.php:3689
+msgid "Custom CSS"
+msgstr ""
+
+#: config/elements/popup.php:62
+msgid "Custom element"
+msgstr ""
+
+#: config/elements/popup.php:157
+msgid "Custom element CSS selector"
+msgstr ""
+
+#: config/elements_conditional_options.php:138 functions/grid.php:1554
+#: templates/elements/post_custom_field.php:37
+#: config/elements/post_custom_field.php:107
+msgid "Custom Field"
+msgstr ""
+
+#: config/elements/html.php:14
+msgid "Custom HTML"
+msgstr ""
+
+#: config/elements/socials.php:32
+msgid "Custom Icon"
+msgstr ""
+
+#: config/meta-boxes.php:244 config/widgets.php:315
+#: functions/shortcodes.php:336 functions/helpers.php:2339
+#: config/elements/person.php:189
+msgid "Custom Link"
+msgstr ""
+
+#: config/widgets.php:330
+msgid "Custom Link Color"
+msgstr ""
+
+#: config/widgets.php:325 config/elements/person.php:203
+msgid "Custom Link Icon"
+msgstr ""
+
+#: config/widgets.php:320
+msgid "Custom Link Title"
+msgstr ""
+
+#: config/elements/gmaps.php:64 config/elements/gmaps.php:110
+msgid "Custom Marker Image"
+msgstr ""
+
+#: functions/header.php:785
+msgid "Custom Menu"
+msgstr ""
+
+#: functions/widget_areas.php:122
+msgid "Custom Sidebar"
+msgstr ""
+
+#: config/meta-boxes.php:257
+msgid "Custom Size"
+msgstr ""
+
+#: config/elements/text.php:17
+msgid "Custom text with link and icon"
+msgstr ""
+
+#: config/color-schemes.php:1198
+msgid "Dark Orange"
+msgstr ""
+
+#: config/theme-options.php:681
+msgid "Dark Theme"
+msgstr ""
+
+#: config/elements_design_options.php:313 config/elements/separator.php:107
+msgid "Dashed"
+msgstr ""
+
+#: config/widgets.php:174 config/widgets.php:175 functions/grid.php:1519
+#: config/elements/post_date.php:37
+msgid "Date of creation"
+msgstr ""
+
+#: config/widgets.php:176 config/widgets.php:177 functions/grid.php:1520
+#: config/elements/post_date.php:38
+msgid "Date of update"
+msgstr ""
+
+#: config/elements_conditional_options.php:231
+msgid "Day of the month"
+msgstr ""
+
+#: config/elements_conditional_options.php:230
+msgid "Day of the week"
+msgstr ""
+
+#: config/elements_conditional_options.php:232
+msgid "Day of the year"
+msgstr ""
+
+#: config/widgets.php:284 config/elements/sharing.php:72
+#: config/elements/socials.php:125
+msgid "Default brands colors"
+msgstr ""
+
+#: config/theme-options.php:2439
+msgid "Default Button"
+msgstr ""
+
+#: functions/widget_areas.php:183
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions/header.php:1170
+#, php-format
+msgid ""
+"Default template is not editable, you can change the Page Template in "
+"%sTheme Options%s"
+msgstr ""
+
+#: config/theme-options.php:1006
+msgid "Default Vertical Row Indents"
+msgstr ""
+
+#: config/theme-options.php:3152 config/theme-options.php:3237
+#: config/theme-options.php:3319
+msgid "Default WooCommerce template"
+msgstr ""
+
+#: config/elements/popup.php:166
+msgid "Delay after page load (in seconds)"
+msgstr ""
+
+#: config/theme-options.php:3482
+msgid "Delete unused image thumbnails"
+msgstr ""
+
+#: admin/functions/demo-import.php:11 admin/functions/demo-import.php:12
+msgid "Demo Import"
+msgstr ""
+
+#: config/elements_design_options.php:20 config/elements_design_options.php:569
+#: config/elements_design_options.php:581
+#: config/elements_design_options.php:596
+#: config/elements_design_options.php:608
+#: config/elements_design_options.php:615
+#: config/elements_design_options.php:632
+#: config/elements_design_options.php:647
+#: plugins-support/js_composer/js_composer.php:394
+msgid "Design"
+msgstr ""
+
+#: functions/helpers.php:3137 config/elements/image.php:209
+#: config/elements/image.php:251 config/elements/search.php:89
+#: config/elements/search.php:124 config/elements/menu.php:297
+#: config/elements/cart.php:80
+msgid "Desktops"
+msgstr ""
+
+#: config/elements/image.php:192
+msgid "Different Image for Transparent Header"
+msgstr ""
+
+#: config/elements/gmaps.php:194
+msgid "Disable dragging on touch screens"
+msgstr ""
+
+#: config/theme-options.php:3637
+msgid "Disable extra features of WPBakery Page Builder"
+msgstr ""
+
+#: config/theme-options.php:3616
+msgid "Disable jQuery migrate script"
+msgstr ""
+
+#: config/elements/gmaps.php:187
+msgid "Disable map zoom on mouse wheel scroll"
+msgstr ""
+
+#: config/elements/itext.php:60
+msgid "Disable Part Animation"
+msgstr ""
+
+#: config/elements/scroller.php:23
+msgid "Disable scrolling at width"
+msgstr ""
+
+#: config/elements/vc_row.php:680
+msgid "Disable this Row"
+msgstr ""
+
+#: functions/shortcodes.php:304 config/elements/post_taxonomy.php:33
+#: config/elements/grid.php:540
+msgid "Display as"
+msgstr ""
+
+#: config/elements/image_slider.php:83
+msgid "Display items in random order"
+msgstr ""
+
+#: widgets/us_blog.php:136 widgets/us_portfolio.php:143
+msgid "Display Items of selected categories"
+msgstr ""
+
+#: config/elements_conditional_options.php:351
+#: config/elements_conditional_options.php:356 config/elements/vc_row.php:683
+msgid "Display Logic"
+msgstr ""
+
+#: config/elements/cta.php:165
+msgid "Display second button"
+msgstr ""
+
+#: config/elements_conditional_options.php:343
+msgid "Display this Element"
+msgstr ""
+
+#: config/elements/menu.php:28
+msgid "Distance Between Main Items"
+msgstr ""
+
+#: config/meta-boxes.php:79 config/meta-boxes.php:141 config/meta-boxes.php:171
+#: config/meta-boxes.php:201 config/theme-options.php:127
+#: config/theme-options.php:141 config/theme-options.php:169
+#: config/theme-options.php:198 config/theme-options.php:228
+#: config/theme-options.php:242 config/theme-options.php:269
+#: config/theme-options.php:298 config/theme-options.php:330
+#: config/theme-options.php:344 config/theme-options.php:371
+#: config/theme-options.php:400 config/theme-options.php:1203
+#: config/theme-options.php:1215 config/theme-options.php:1239
+#: config/theme-options.php:1265 config/theme-options.php:1296
+#: config/theme-options.php:1311 config/theme-options.php:1336
+#: config/theme-options.php:1364 config/theme-options.php:1388
+#: config/theme-options.php:1401 config/theme-options.php:1426
+#: config/theme-options.php:1453 config/theme-options.php:3126
+#: config/theme-options.php:3139 config/theme-options.php:3164
+#: config/theme-options.php:3191 config/theme-options.php:3211
+#: config/theme-options.php:3224 config/theme-options.php:3270
+#: config/theme-options.php:3297
+msgid "Do not display"
+msgstr ""
+
+#: functions/widget_areas.php:43
+msgid "Do you really want to delete this sidebar?"
+msgstr ""
+
+#: config/elements/post_date.php:62
+msgid "Documentation on date and time formatting."
+msgstr ""
+
+#: admin/functions/demo-import.php:377
+msgid "Don't close or refresh this page to not interrupt the import."
+msgstr ""
+
+#: config/elements/image_slider.php:44
+msgid "Dots"
+msgstr ""
+
+#: config/elements/scroller.php:103
+msgid "Dots Color"
+msgstr ""
+
+#: config/elements/scroller.php:66
+msgid "Dots Position"
+msgstr ""
+
+#: config/elements/scroller.php:80
+msgid "Dots Size"
+msgstr ""
+
+#: config/elements/scroller.php:50
+msgid "Dots Style"
+msgstr ""
+
+#: config/elements_design_options.php:314 config/elements/separator.php:108
+msgid "Dotted"
+msgstr ""
+
+#: config/elements_design_options.php:315 config/elements/separator.php:109
+msgid "Double"
+msgstr ""
+
+#: config/menu-dropdown.php:52
+msgid "Drop from"
+msgstr ""
+
+#: config/menu-dropdown.php:63
+msgid "Drop to"
+msgstr ""
+
+#: config/assets.php:315 config/elements/cform.php:71
+#: config/elements/grid_filter.php:69 config/elements/grid_filter.php:136
+#: config/elements/grid_filter.php:137 config/elements/dropdown.php:25
+#: config/elements/menu.php:221 usof/templates/fields/group_param.php:56
+#: usof/templates/fields/group_param.php:57
+#: usof/templates/fields/group_param.php:58
+#: usof/templates/fields/header_builder.php:142
+#: usof/templates/fields/header_builder.php:290
+msgid "Dropdown"
+msgstr ""
+
+#: config/elements/menu.php:189
+msgid "Dropdown Active Item Background"
+msgstr ""
+
+#: config/elements/menu.php:196
+msgid "Dropdown Active Item Text"
+msgstr ""
+
+#: config/elements/menu.php:163
+msgid "Dropdown Background"
+msgstr ""
+
+#: config/elements/dropdown.php:130
+msgid "Dropdown Direction"
+msgstr ""
+
+#: config/elements/dropdown.php:144 config/elements/menu.php:95
+#: config/elements/cart.php:61
+msgid "Dropdown Effect"
+msgstr ""
+
+#: config/elements/menu.php:105 config/elements/menu.php:260
+msgid "Dropdown Font Size"
+msgstr ""
+
+#: config/elements/dropdown.php:111
+msgid "Dropdown Icon"
+msgstr ""
+
+#: config/elements/menu.php:88
+msgid "Dropdown Indication"
+msgstr ""
+
+#: config/elements/menu.php:176
+msgid "Dropdown Item Background on hover"
+msgstr ""
+
+#: config/elements/menu.php:183
+msgid "Dropdown Item Text on hover"
+msgstr ""
+
+#: usof/functions/ajax-menu-dropdown.php:57 usof/functions/menu-dropdown.php:30
+msgid "Dropdown Settings"
+msgstr ""
+
+#: config/elements/menu.php:170
+msgid "Dropdown Text"
+msgstr ""
+
+#: config/elements/dropdown.php:101
+msgid "Dropdown Title"
+msgstr ""
+
+#: config/elements/menu.php:112
+msgid "Dropdown Width"
+msgstr ""
+
+#: config/elements/menu.php:92 config/elements/menu.php:99
+#: config/elements/menu.php:109 config/elements/menu.php:116
+msgid "Dropdowns"
+msgstr ""
+
+#: functions/post-types.php:402 admin/functions/header-builder.php:137
+#: admin/functions/grid-builder.php:109 builder/classes/USBuilder.php:355
+#: usof/templates/fields/grid_builder.php:71
+#: usof/templates/fields/grid_builder.php:120
+#: usof/templates/fields/grid_builder.php:203
+#: usof/templates/fields/header_builder.php:178
+#: usof/templates/fields/header_builder.php:284
+msgid "Duplicate"
+msgstr ""
+
+#: config/elements/itext.php:85
+msgid "Dynamic Part Color"
+msgstr ""
+
+#: config/theme-options.php:3630
+msgid "Dynamically load theme JS components"
+msgstr ""
+
+#: config/elements/cform.php:127 config/elements/itext.php:24
+msgid "Each value on a new line"
+msgstr ""
+
+#: config/theme-options.php:766 config/theme-options.php:854
+#: config/theme-options.php:3009 config/theme-options.php:3017
+msgid "Edit Button Styles"
+msgstr ""
+
+#: usof/templates/fields/grid_builder.php:119
+#: usof/templates/fields/grid_builder.php:202
+#: usof/templates/fields/header_builder.php:177
+#: usof/templates/fields/header_builder.php:283
+msgid "Edit element"
+msgstr ""
+
+#: builder/classes/USBuilder.php:525
+msgid "Edit Footer"
+msgstr ""
+
+#: functions/post-types.php:211
+msgid "Edit Grid Layout"
+msgstr ""
+
+#: config/elements_misc.php:87
+msgid "Edit image sizes"
+msgstr ""
+
+#: functions/post-types.php:904 functions/post-types.php:934
+#: functions/post-types.php:959
+msgid "edit in Theme Options"
+msgstr ""
+
+#: builder/classes/USBuilder.php:473 builder/classes/USBuilder.php:549
+#: builder/classes/USBuilder.php:568 builder/classes/USBuilder.php:726
+msgid "Edit Live"
+msgstr ""
+
+#: builder/classes/USBuilder.php:963
+msgid "Edit page in Backend"
+msgstr ""
+
+#: functions/post-types.php:261 functions/post-types.php:1098
+msgid "Edit Page Template"
+msgstr ""
+
+#: config/theme-options.php:2960 config/theme-options.php:2962
+#: functions/post-types.php:60
+msgid "Edit Portfolio Page"
+msgstr ""
+
+#: config/elements/product_gallery.php:23
+#, php-format
+msgid "Edit Product gallery appearance on %sTheme Options%s."
+msgstr ""
+
+#: functions/post-types.php:285 functions/post-types.php:1094
+#: builder/classes/USBuilder/Shortcode.php:237
+msgid "Edit Reusable Block"
+msgstr ""
+
+#: usof/templates/field.php:286
+msgid "Edit selected"
+msgstr ""
+
+#: functions/post-types.php:165
+msgid "Edit Testimonial"
+msgstr ""
+
+#: usof/templates/fields/grid_builder.php:70
+#: usof/templates/fields/grid_builder.php:205
+#: usof/templates/fields/header_builder.php:75
+#: usof/templates/fields/header_builder.php:286
+msgid "Edit wrapper"
+msgstr ""
+
+#: builder/classes/USBuilder.php:963
+msgid "Editing of this element is not supported."
+msgstr ""
+
+#: config/elements_design_options.php:577
+msgid "Element ID"
+msgstr ""
+
+#: config/header-settings.php:145
+msgid "Elements Alignment"
+msgstr ""
+
+#: config/header-settings.php:347
+msgid "Elements Vertical Alignment"
+msgstr ""
+
+#: config/elements/cform.php:303
+msgid "Email Subject"
+msgstr ""
+
+#: templates/elements/sharing.php:48
+msgid "Email this"
+msgstr ""
+
+#: config/theme-options.php:668
+msgid "Enable \"503 Service Unavailable\" status"
+msgstr ""
+
+#: admin/functions/demo-import.php:293 admin/functions/demo-import.php:308
+#, php-format
+msgid "Enable %s module"
+msgstr ""
+
+#: config/elements/message.php:53
+msgid "Enable closing"
+msgstr ""
+
+#: config/theme-options.php:1062
+msgid "Enable Footer Reveal Effect"
+msgstr ""
+
+#: config/elements_hover_options.php:10
+msgid "Enable hover effect"
+msgstr ""
+
+#: config/elements/post_image.php:70
+msgid "Enable rounded image"
+msgstr ""
+
+#: config/elements_conditional_options.php:165
+#: config/elements/post_custom_field.php:114
+msgid "Enter a custom field name to get its value."
+msgstr ""
+
+#: config/elements/grid.php:311 config/elements/grid_order.php:42
+msgid "Enter custom field name to order items by its value"
+msgstr ""
+
+#: usof/templates/fields/icon.php:92
+msgid "Enter icon name from the list"
+msgstr ""
+
+#: migrations/Zephyr/us_migration_5_4.php:104
+#: migrations/Impreza/us_migration_5_7.php:104 templates/form/captcha.php:103
+#: functions/ajax/cform.php:117
+msgid "Enter the equation result to proceed"
+msgstr "Lütfen soruyu cevaplayın"
+
+#: config/elements_conditional_options.php:189
+msgid "Equal"
+msgstr ""
+
+#: config/elements/gmaps.php:210
+#, php-format
+msgid "Example: %s"
+msgstr ""
+
+#: templates/footer.php:112
+msgctxt "Example: 3 of 12"
+msgid "%curr% of %total%"
+msgstr ""
+
+#: templates/elements/progbar.php:131
+#, php-format
+msgctxt "Example: 33% of 100%"
+msgid "of %s"
+msgstr ""
+
+#: config/elements_misc.php:48 config/elements_misc.php:51
+#: config/elements_misc.php:54 config/elements_misc.php:57
+#: config/elements_misc.php:60 config/elements_misc.php:63
+#: config/elements_misc.php:66 config/elements_misc.php:69
+#: config/elements_misc.php:75 config/elements_misc.php:78
+#: config/elements_misc.php:81 config/elements_design_options.php:539
+#: config/seo-meta-fields.php:25 config/theme-options.php:504
+#: config/theme-options.php:1881 config/elements/cform.php:12
+#: config/elements/cform.php:20 config/elements/cform.php:99
+#: config/elements/cart_table.php:66 config/elements/popup.php:158
+#: config/elements/additional_menu.php:55
+#: config/elements/additional_menu.php:133 config/elements/counter.php:22
+#: config/elements/counter.php:29 config/elements/counter.php:151
+#: config/elements/vc_tta_tabs.php:138 config/elements/grid.php:680
+#: config/elements/grid.php:690 config/elements/wc_account_navigation.php:54
+#: config/elements/wc_account_navigation.php:132
+#: config/elements/separator.php:39 config/elements/separator.php:196
+#: config/elements/separator.php:219 config/elements/vc_row.php:634
+#: config/elements/carousel.php:258 config/elements/vc_column.php:31
+#: config/elements/vc_tta_tour.php:172 config/elements/iconbox.php:152
+#: usof/templates/fields/icon.php:95
+msgid "Examples:"
+msgstr ""
+
+#: config/elements/post_content.php:27
+msgid "Excerpt, if it's empty, show nothing"
+msgstr ""
+
+#: config/elements/post_content.php:26
+msgid "Excerpt, if it's empty, show part of a content"
+msgstr ""
+
+#: config/theme-options.php:1155
+msgid "Exclude from Search Results"
+msgstr ""
+
+#: config/elements/grid.php:363
+msgid "Exclude Items"
+msgstr ""
+
+#: config/elements/page_block.php:43 config/elements/post_content.php:36
+#: admin/functions/nav-menu-edit.php:16
+msgid "Exclude Rows and Columns"
+msgstr ""
+
+#: config/elements_conditional_options.php:181
+msgid "Excludes"
+msgstr ""
+
+#: admin/functions/header-builder.php:91 admin/functions/grid-builder.php:67
+#: usof/templates/fields/grid_builder.php:241
+msgid "Export / Import"
+msgstr ""
+
+#: config/grid-settings.php:225 config/elements_design_options.php:564
+msgid "Extra class"
+msgstr ""
+
+#: config/elements_design_options.php:95 config/elements/counter.php:138
+#: config/elements/vc_tta_tabs.php:83 config/elements/vc_tta_tour.php:117
+#: usof/templates/fields/font.php:183 usof/templates/fields/font.php:184
+msgid "extra-bold"
+msgstr ""
+
+#: config/elements_design_options.php:89 config/elements/counter.php:132
+#: config/elements/vc_tta_tabs.php:77 config/elements/vc_tta_tour.php:111
+#: usof/templates/fields/font.php:171 usof/templates/fields/font.php:172
+msgid "extra-light"
+msgstr ""
+
+#: config/theme-options.php:3578
+msgid "Facebook Application ID"
+msgstr ""
+
+#: config/elements_misc.php:26 config/widgets.php:304
+#: config/elements_design_options.php:524 config/elements/popup.php:181
+#: config/elements/grid.php:576 config/elements/vc_row.php:399
+#: config/elements/menu.php:242 config/elements/socials.php:140
+#: config/elements/image_slider.php:55
+msgid "Fade"
+msgstr ""
+
+#: config/elements_misc.php:28
+msgid "Fade + SlideDown"
+msgstr ""
+
+#: config/elements/itext.php:98
+msgid "Fade in the whole part"
+msgstr ""
+
+#: config/elements/carousel.php:202
+msgid "Fade transition (for 1 column only)"
+msgstr ""
+
+#: config/elements/person.php:127
+msgid "Faded"
+msgstr ""
+
+#: config/theme-options.php:1651 config/theme-options.php:1732
+msgid "Faded Text"
+msgstr ""
+
+#: admin/functions/demo-import.php:585 admin/functions/demo-import.php:706
+#: admin/functions/demo-import.php:880 admin/functions/demo-import.php:946
+#: admin/functions/demo-import.php:959 admin/functions/demo-import.php:1000
+#: admin/functions/demo-import.php:1020
+#, php-format
+msgid "Failed to import %s"
+msgstr ""
+
+#: config/theme-options.php:3379
+msgid "Fallback icon font"
+msgstr ""
+
+#: config/elements/pricing.php:118
+msgid "Features List"
+msgstr ""
+
+#: config/elements_conditional_options.php:164
+msgid "Field Name"
+msgstr ""
+
+#: config/elements/search.php:123
+msgid "Field Width"
+msgstr ""
+
+#: config/elements/cform.php:56
+msgid "Fields"
+msgstr ""
+
+#: config/elements/cform.php:318
+msgid "Fields Layout"
+msgstr ""
+
+#: config/theme-options.php:2489
+msgid "Fields Style"
+msgstr ""
+
+#: templates/form/form.php:62 functions/ajax/cform.php:154
+#, php-format
+msgid "File size cannot exceed %s MB"
+msgstr ""
+
+#: config/elements/cform.php:171
+msgid "File size limit"
+msgstr ""
+
+#: config/grid-settings.php:148 config/header-settings.php:374
+#: config/theme-options.php:921 config/menu-dropdown.php:139
+#: config/elements/vc_row.php:261 config/elements/image_slider.php:135
+msgid "Fill Area"
+msgstr ""
+
+#: templates/comments.php:84 templates/comments.php:85
+#: templates/form/file.php:105 templates/form/date.php:117
+#: templates/form/textarea.php:101 templates/form/password.php:98
+#: templates/form/form.php:61 templates/form/text.php:107
+#: functions/ajax/cform.php:123 functions/ajax/cform.php:127
+msgid "Fill out this field"
+msgstr "Lütfen boşlukları doldurun"
+
+#: config/elements/grid.php:750
+msgid "Filter Bar Alignment"
+msgstr ""
+
+#: config/elements/grid.php:736
+msgid "Filter Bar Style"
+msgstr ""
+
+#: config/elements/grid_filter.php:48 config/elements/grid.php:40
+msgid "Filter by"
+msgstr ""
+
+#: functions/media.php:346
+msgid "Filter by Categories"
+msgstr ""
+
+#: templates/elements/grid_filter.php:896 config/elements/grid_filter.php:227
+msgid "Filters"
+msgstr ""
+
+#: config/elements/counter.php:28
+msgid "Final counting value"
+msgstr ""
+
+#: config/elements/progbar.php:28
+msgid "Final Value"
+msgstr ""
+
+#: config/elements/carousel.php:167
+msgid "First item in the center"
+msgstr ""
+
+#: config/elements/grid_order.php:87
+msgid "First Value Title"
+msgstr ""
+
+#: config/grid-settings.php:149 config/header-settings.php:375
+#: config/theme-options.php:922 config/menu-dropdown.php:140
+#: config/elements/vc_row.php:262 config/elements/image_slider.php:134
+msgid "Fit to Area"
+msgstr ""
+
+#: config/header-settings.php:85
+msgid "Fix the header at the top of a page during scroll"
+msgstr ""
+
+#: config/elements/vc_column.php:22
+msgid "Fix this column at the top of a page during scroll"
+msgstr ""
+
+#: config/elements/vc_row.php:440
+msgid "Fix this row at the top of a page during scroll"
+msgstr ""
+
+#: config/elements/sharing.php:44 config/elements/vc_row.php:323
+msgid "Fixed"
+msgstr ""
+
+#: config/elements/pricing.php:77
+msgid "Flat"
+msgstr ""
+
+#: config/elements/vc_row.php:132
+msgid "Flip horizontally"
+msgstr ""
+
+#: config/assets.php:352 config/elements/flipbox.php:14
+msgid "FlipBox"
+msgstr ""
+
+#: config/elements_design_options.php:77 config/theme-options.php:2308
+#: config/theme-options.php:2738 config/elements/vc_tta_tabs.php:61
+#: config/elements/vc_tta_tour.php:95
+msgid "Font"
+msgstr ""
+
+#: config/theme-options.php:2016
+msgid "Font Display"
+msgstr ""
+
+#: config/theme-options.php:2003
+msgid "Font Files"
+msgstr ""
+
+#: config/theme-options.php:1976
+msgid "Font Name"
+msgstr ""
+
+#: config/elements_design_options.php:53 config/theme-options.php:503
+#: config/theme-options.php:1880 config/theme-options.php:2328
+#: config/theme-options.php:2767 config/elements/vc_tta_tabs.php:113
+#: config/elements/vc_tta_tour.php:147
+msgid "Font Size"
+msgstr ""
+
+#: config/theme-options.php:510 config/theme-options.php:1887
+msgid "Font Size on Mobiles"
+msgstr ""
+
+#: config/elements_design_options.php:117
+msgid "Font Style"
+msgstr ""
+
+#: config/elements_design_options.php:84 config/theme-options.php:549
+#: config/theme-options.php:1982 config/theme-options.php:2392
+#: config/theme-options.php:2811 config/elements/vc_tta_tabs.php:72
+#: config/elements/vc_tta_tour.php:106
+msgid "Font Weight"
+msgstr ""
+
+#: config/meta-boxes.php:195 config/theme-options.php:191
+#: config/theme-options.php:291 config/theme-options.php:393
+#: config/theme-options.php:1059 config/theme-options.php:1259
+#: config/theme-options.php:1356 config/theme-options.php:1446
+#: config/theme-options.php:3184 config/theme-options.php:3290
+#: functions/post-types.php:870 functions/header.php:988
+#: functions/meta-tags.php:219
+msgid "Footer"
+msgstr ""
+
+#: config/theme-options.php:1752 config/elements/vc_row.php:235
+msgid "Footer colors"
+msgstr ""
+
+#: config/elements_conditional_options.php:212
+#: config/elements_conditional_options.php:219 config/elements/cform.php:289
+msgid "For several values use commas"
+msgstr ""
+
+#: config/elements/post_date.php:45
+msgid "Format"
+msgstr ""
+
+#: config/assets.php:331
+msgid "Forms"
+msgstr ""
+
+#: config/color-schemes.php:428
+msgid "Fresh Mint"
+msgstr ""
+
+#: config/elements/flipbox.php:25 config/elements/flipbox.php:27
+#: config/elements/flipbox.php:40 config/elements/flipbox.php:53
+#: config/elements/flipbox.php:64 config/elements/flipbox.php:73
+#: config/elements/flipbox.php:86 config/elements/flipbox.php:96
+#: config/elements/flipbox.php:107 config/elements/flipbox.php:119
+#: config/elements/flipbox.php:125 config/elements/flipbox.php:135
+#: config/elements/flipbox.php:151 config/elements/flipbox.php:165
+#: config/elements/flipbox.php:178 config/elements/flipbox.php:189
+#: config/elements/flipbox.php:199 config/elements/flipbox.php:212
+msgid "Front Side"
+msgstr ""
+
+#: config/elements/post_content.php:29
+msgid "Full content"
+msgstr ""
+
+#: config/elements/carousel.php:60
+msgid "Full height blocks"
+msgstr ""
+
+#: config/elements/vc_row.php:206
+msgid "Full Height Row"
+msgstr ""
+
+#: config/elements/search.php:51 config/elements/menu.php:223
+msgid "Full Screen"
+msgstr ""
+
+#: config/menu-dropdown.php:15 config/elements/search.php:50
+#: config/elements/separator.php:62 config/elements/vc_row.php:166
+msgid "Full Width"
+msgstr ""
+
+#: config/header-settings.php:210 config/header-settings.php:330
+#: config/header-settings.php:531
+msgid "Full Width Content"
+msgstr ""
+
+#: config/grid-templates.php:1933
+msgid "Gallery Templates"
+msgstr ""
+
+#: config/elements/vc_row.php:581
+msgid "Gap between columns"
+msgstr ""
+
+#: config/elements/separator.php:15
+msgid "Gap between elements"
+msgstr ""
+
+#: config/elements/cform.php:332 config/elements/checkout_billing.php:64
+msgid "Gap between Fields"
+msgstr ""
+
+#: config/elements/socials.php:163
+msgid "Gap between Icons"
+msgstr ""
+
+#: config/elements/vwrapper.php:59 config/elements/additional_menu.php:79
+#: config/elements/additional_menu.php:243 config/elements/grid.php:612
+#: config/elements/wc_account_navigation.php:78 config/elements/hwrapper.php:61
+msgid "Gap between Items"
+msgstr ""
+
+#: config/theme-options.php:3088
+msgid "Gap between Thumbnails"
+msgstr ""
+
+#: usof/templates/fields/header_builder.php:222
+msgid "General Header Settings"
+msgstr ""
+
+#: config/color-schemes.php:325
+msgid "Gentle Blue"
+msgstr ""
+
+#: config/theme-options.php:3572
+msgid "Get API key"
+msgstr ""
+
+#: config/theme-options.php:3565
+msgid "Global Values"
+msgstr ""
+
+#: config/theme-options.php:1950
+msgid "Google Font Preview"
+msgstr ""
+
+#: functions/helpers.php:1421 usof/templates/fields/font.php:144
+msgid "Google Fonts (loaded from Google servers)"
+msgstr ""
+
+#: config/elements/gmaps.php:144
+msgid "Google Maps"
+msgstr ""
+
+#: config/theme-options.php:3570
+msgid "Google Maps API Key"
+msgstr ""
+
+#: config/elements_conditional_options.php:191
+#: config/elements_conditional_options.php:319
+msgid "Greater than"
+msgstr ""
+
+#: config/elements/message.php:27
+msgid "Green"
+msgstr ""
+
+#: config/color-schemes.php:1359
+msgid "Green Darkness"
+msgstr ""
+
+#: config/assets.php:383 config/elements/grid_filter.php:35
+#: config/elements/grid.php:154 config/elements/grid.php:155
+#: config/elements/carousel.php:37 config/elements/grid_order.php:21
+msgid "Grid"
+msgstr ""
+
+#: config/assets.php:403 config/elements/grid_filter.php:34
+msgid "Grid Filter"
+msgstr ""
+
+#: config/theme-options.php:3587
+msgid "Grid Filter URL prefix"
+msgstr ""
+
+#: config/widgets.php:166 config/widgets.php:218 functions/post-types.php:208
+#: config/elements/grid.php:523 admin/functions/grid-builder.php:49
+msgid "Grid Layout"
+msgstr ""
+
+#: config/elements/grid.php:503
+#, php-format
+msgctxt "Grid Layout"
+msgid "%sEdit selected%s or %screate a new one%s."
+msgstr ""
+
+#: admin/functions/grid-builder.php:57
+msgid "Grid Layout Name"
+msgstr ""
+
+#: usof/templates/fields/grid_builder.php:146
+msgid "Grid Layout Settings"
+msgstr ""
+
+#: config/assets.php:434 usof/templates/window_templates.php:46
+#: config/elements/grid.php:516
+msgid "Grid Layout Templates"
+msgstr ""
+
+#: config/widgets.php:14 functions/post-types.php:207
+#: config/elements/grid.php:487 admin/functions/demo-import.php:322
+#: admin/functions/demo-import.php:749
+msgid "Grid Layouts"
+msgstr ""
+
+#: config/assets.php:421 config/elements/grid_order.php:20
+msgid "Grid Order"
+msgstr ""
+
+#: config/theme-options.php:3594
+msgid "Grid Order URL prefix"
+msgstr ""
+
+#: config/assets.php:471
+msgid "Grid Pagination"
+msgstr ""
+
+#: config/assets.php:491
+msgid "Grid Popup"
+msgstr ""
+
+#: config/theme-options.php:3514
+msgid "Gutenberg (block editor)"
+msgstr ""
+
+#: config/theme-options.php:1480
+msgid "Header colors"
+msgstr ""
+
+#: usof/templates/fields/header_builder.php:317
+msgid "Header Export / Import"
+msgstr ""
+
+#: admin/functions/header-builder.php:81
+msgid "Header Name"
+msgstr ""
+
+#: config/header-settings.php:102
+msgid "Header Scroll Breakpoint"
+msgstr ""
+
+#: config/meta-boxes.php:110 config/header-settings.php:156
+msgid "Header Shadow"
+msgstr ""
+
+#: usof/templates/window_header_templates.php:31
+msgid "Header Templates"
+msgstr ""
+
+#: config/header-settings.php:128
+msgid "Header Width"
+msgstr ""
+
+#: config/theme-options.php:488
+#, php-format
+msgid "Heading %s preview"
+msgstr ""
+
+#: config/elements/counter.php:69 config/elements/progbar.php:109
+msgid "Heading (theme color)"
+msgstr ""
+
+#: config/theme-options.php:1615 config/theme-options.php:1696
+#: config/theme-options.php:1777 config/theme-options.php:1833
+msgid "Headings"
+msgstr ""
+
+#: config/elements/post_content.php:94 config/elements/vc_column_text.php:42
+msgid "Height of visible content"
+msgstr ""
+
+#: config/elements_design_options.php:530 config/elements/grid.php:582
+msgid "Height Stretch"
+msgstr ""
+
+#: config/theme-options.php:1871
+msgid ""
+"Here's a preview of what your website's text will look like <strong>by "
+"default</strong>. You can also adjust the typography of most elements "
+"separately. Note that the Font Size setting affects all the sizes defined in "
+"\"rem\" units, that is, almost all areas of your site."
+msgstr ""
+
+#: usof/templates/fields/header_builder.php:212
+msgid "Hidden Elements"
+msgstr ""
+
+#: config/elements/gmaps.php:180
+msgid "Hide all map controls"
+msgstr ""
+
+#: config/elements/progbar.php:45
+msgid "Hide final value"
+msgstr ""
+
+#: config/elements_design_options.php:590
+msgid "Hide on"
+msgstr ""
+
+#: config/elements_design_options.php:621
+msgid "Hide on screens LESS than"
+msgstr ""
+
+#: config/elements_design_options.php:636
+msgid "Hide on screens MORE than"
+msgstr ""
+
+#: config/grid-settings.php:101
+msgid "Hide Overflowing Content"
+msgstr ""
+
+#: config/elements/post_content.php:88 config/elements/vc_column_text.php:35
+msgid "Hide part of a content with the \"Show More\" link"
+msgstr ""
+
+#: config/elements/progbar.php:37
+msgid "Hide progress value counter"
+msgstr ""
+
+#: config/elements/text.php:82
+msgid "Hide the element if link is empty"
+msgstr ""
+
+#: config/elements/post_custom_field.php:192
+msgid "Hide this element if its value is empty"
+msgstr ""
+
+#: config/elements/post_comments.php:38
+msgid "Hide this element if no comments"
+msgstr ""
+
+#: config/elements_design_options.php:613
+msgid "Hide this element when the header is NOT sticky"
+msgstr ""
+
+#: config/elements_design_options.php:606
+msgid "Hide this element when the header is sticky"
+msgstr ""
+
+#: config/elements/grid.php:390
+msgid "Hide this Grid"
+msgstr ""
+
+#: config/elements/socials.php:184
+msgid "Hide tooltip on hover"
+msgstr ""
+
+#: config/elements/grid_filter.php:203
+msgid "Hide unavailable values"
+msgstr ""
+
+#: config/elements/vc_row.php:379
+msgid "Hide video at screen width"
+msgstr ""
+
+#: config/elements/vc_video.php:57
+msgid "Hide Vimeo video title (only if the owner allows)"
+msgstr ""
+
+#: config/elements/vc_video.php:51
+msgid "Hide YouTube controls while watching"
+msgstr ""
+
+#: builder/templates/main.php:41
+msgid "Hide/Show panel"
+msgstr ""
+
+#: config/theme-options.php:747
+msgid "Highlight theme elements on focus"
+msgstr ""
+
+#: config/elements/breadcrumbs.php:22
+msgid "Homepage Label"
+msgstr ""
+
+#: config/theme-options.php:2143 config/theme-options.php:2228
+#: config/theme-options.php:2573 config/theme-options.php:2658
+msgid "Hor. offset"
+msgstr ""
+
+#: config/header-settings.php:77 config/elements/cform.php:322
+#: config/elements/popup.php:186 config/elements/additional_menu.php:36
+#: config/elements/grid_filter.php:114
+#: config/elements/wc_account_navigation.php:35
+msgid "Horizontal"
+msgstr ""
+
+#: config/elements/additional_menu.php:132
+#: config/elements/wc_account_navigation.php:131
+msgid "Horizontal Indents"
+msgstr ""
+
+#: config/elements_design_options.php:443
+#: config/elements_design_options.php:478
+msgid "Horizontal Offset"
+msgstr ""
+
+#: config/assets.php:525 config/elements/vc_row.php:322
+msgid "Horizontal Parallax"
+msgstr ""
+
+#: config/elements_hover_options.php:82
+msgid "Horizontal Shift"
+msgstr ""
+
+#: config/elements_hover_options.php:106
+msgid "Horizontal Shift on Hover"
+msgstr ""
+
+#: config/elements_misc.php:30
+msgid "Horizontal Slide"
+msgstr ""
+
+#: config/assets.php:537 config/elements/hwrapper.php:15
+msgid "Horizontal Wrapper"
+msgstr ""
+
+#: config/grid-settings.php:177 config/header-settings.php:385
+#: config/elements_design_options.php:166 config/theme-options.php:932
+#: config/menu-dropdown.php:151 config/elements/vc_row.php:302
+msgid "Horizontally"
+msgstr ""
+
+#: config/elements_hover_options.php:14 config/elements_hover_options.php:30
+#: config/elements_hover_options.php:46 config/elements_hover_options.php:62
+#: config/elements_hover_options.php:78 config/elements_hover_options.php:102
+#: config/elements_hover_options.php:126 config/elements_hover_options.php:150
+#: config/elements_hover_options.php:174 config/elements_hover_options.php:184
+#: config/elements_hover_options.php:195 config/elements_hover_options.php:206
+#: config/elements_hover_options.php:222 config/elements_hover_options.php:237
+#: config/elements_hover_options.php:252
+msgid "Hover Effect"
+msgstr ""
+
+#: config/widgets.php:302 config/theme-options.php:2061
+#: config/elements/socials.php:137
+msgid "Hover Style"
+msgstr ""
+
+#: config/elements_hover_options.php:210
+msgid "Hover Transition Duration"
+msgstr ""
+
+#: config/elements/post_custom_field.php:250
+#: config/elements/post_custom_field.php:277
+#: config/elements/post_custom_field.php:298 config/elements/itext.php:46
+#: config/elements/post_title.php:82 config/elements/text.php:88
+msgid "HTML tag"
+msgstr ""
+
+#: config/elements/cform.php:311 config/elements/gmaps.php:49
+#: config/elements/gmaps.php:104
+msgid "HTML tags are allowed."
+msgstr ""
+
+#: config/elements/post_content.php:56 config/elements/post_content.php:70
+msgid "HTML tags, line-breaks and shortcodes will be stripped."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://help.us-themes.com/impreza/us-core/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://us-themes.com/"
+msgstr ""
+
+#: config/elements/post_date.php:48
+msgid "Human friendly"
+msgstr ""
+
+#: config/meta-boxes.php:251 config/elements/cform.php:179
+#: config/elements/cform.php:266 config/elements/post_taxonomy.php:99
+#: config/elements/popup.php:61 config/elements/popup.php:137
+#: config/elements/breadcrumbs.php:57 config/elements/post_custom_field.php:16
+#: config/elements/post_custom_field.php:261
+#: config/elements/grid_filter.php:252 config/elements/dropdown.php:59
+#: config/elements/post_date.php:70 config/elements/cta.php:142
+#: config/elements/cta.php:215 config/elements/search.php:82
+#: config/elements/separator.php:123 config/elements/btn.php:113
+#: config/elements/flipbox.php:111 config/elements/flipbox.php:115
+#: config/elements/vc_tta_section.php:41 config/elements/post_views.php:22
+#: config/elements/cart.php:70 config/elements/post_comments.php:82
+#: config/elements/iconbox.php:24 config/elements/message.php:46
+#: config/elements/text.php:98 config/elements/post_author.php:102
+msgid "Icon"
+msgstr ""
+
+#: config/elements/separator.php:127 config/elements/separator.php:136
+#: config/elements/separator.php:144 config/elements/separator.php:153
+#: config/elements/separator.php:171
+msgid "Icon and Title"
+msgstr ""
+
+#: config/elements/flipbox.php:172 config/elements/iconbox.php:138
+msgid "Icon Circle Color"
+msgstr ""
+
+#: config/elements/vc_video.php:116 config/elements/flipbox.php:158
+#: config/elements/iconbox.php:109 config/elements/iconbox.php:125
+msgid "Icon Color"
+msgstr ""
+
+#: config/elements/cform.php:273 config/elements/popup.php:145
+#: config/elements/grid_filter.php:259 config/elements/cta.php:149
+#: config/elements/cta.php:223 config/elements/btn.php:119
+#: config/elements/flipbox.php:203 config/elements/vc_tta_section.php:47
+#: config/elements/iconbox.php:162 config/elements/text.php:104
+msgid "Icon Position"
+msgstr ""
+
+#: config/theme-options.php:3370
+msgid "Icon Sets"
+msgstr ""
+
+#: config/elements/search.php:88 config/elements/vc_video.php:128
+#: config/elements/menu.php:292 config/elements/flipbox.php:129
+#: config/elements/cart.php:76 config/elements/iconbox.php:151
+msgid "Icon Size"
+msgstr ""
+
+#: config/elements/flipbox.php:142 config/elements/iconbox.php:95
+msgid "Icon Style"
+msgstr ""
+
+#: config/elements/menu.php:329
+msgid "Icon Thickness"
+msgstr ""
+
+#: config/assets.php:555 config/elements/iconbox.php:14
+msgid "IconBox"
+msgstr ""
+
+#: config/theme-options.php:3361
+msgid "Icons"
+msgstr ""
+
+#: config/widgets.php:282 config/elements/socials.php:122
+msgid "Icons Color"
+msgstr ""
+
+#: config/widgets.php:292 config/elements/socials.php:90
+msgid "Icons Shape"
+msgstr ""
+
+#: config/widgets.php:271 config/elements/socials.php:106
+msgid "Icons Style"
+msgstr ""
+
+#: config/theme-options.php:3371
+msgid ""
+"If \"None\" is selected, the corresponding icon set won't load font files "
+"and won't appear in the icon selection of elements settings."
+msgstr ""
+
+#: config/theme-options.php:3465
+#, php-format
+msgid ""
+"If an image height or width is above this threshold, it will be scaled down "
+"and used as the \"%s\"."
+msgstr ""
+
+#: config/elements_conditional_options.php:348
+msgid "If ANY condition below is met"
+msgstr ""
+
+#: config/elements/vc_row.php:677
+msgid "If checked the Row won't be visible on the public side of your website."
+msgstr ""
+
+#: config/elements_conditional_options.php:347
+msgid "If EVERY condition below is met"
+msgstr ""
+
+#: config/elements/sharing.php:99
+msgid "If not specified, the opened page URL will be used by default"
+msgstr ""
+
+#: config/theme-options.php:3552
+msgid ""
+"If you're using any SEO plugin, turn OFF this option to avoid conflicts."
+msgstr ""
+
+#: config/theme-options.php:3610
+msgid ""
+"If your site uses both \"HTTP\" and \"HTTPS\" and has some appearance "
+"issues, turn OFF this option."
+msgstr ""
+
+#: config/elements/grid.php:563
+msgid "Ignore items custom size"
+msgstr ""
+
+#: config/widgets.php:244 config/elements/grid.php:257
+msgid "Ignore sticky posts"
+msgstr ""
+
+#: config/elements/vc_row.php:664
+#, php-format
+msgid "Ignore the \"%s\" global option"
+msgstr ""
+
+#: config/elements/ibanner.php:15
+msgid "Image and text with hover effect"
+msgstr ""
+
+#: config/assets.php:588 config/grid-templates.php:1932
+msgid "Image Gallery"
+msgstr ""
+
+#: config/grid-templates.php:1951
+msgid "Image Gallery with titles BELOW the image"
+msgstr ""
+
+#: config/grid-templates.php:2035
+msgid "Image Gallery with titles OVER the image"
+msgstr ""
+
+#: config/elements/vc_video.php:91
+msgid "Image Overlay"
+msgstr ""
+
+#: config/grid-settings.php:138 config/elements/person.php:138
+#: config/elements/popup.php:108 config/elements/post_custom_field.php:132
+#: config/elements/ibanner.php:30 config/elements/image.php:37
+#: config/elements/post_image.php:126 config/elements/flipbox.php:100
+#: config/elements/flipbox.php:293
+msgid "Image Size"
+msgstr ""
+
+#: config/assets.php:611 config/elements/vc_row.php:362
+#: config/elements/image_slider.php:14
+msgid "Image Slider"
+msgstr ""
+
+#: config/elements/image.php:63
+msgid "Image Style"
+msgstr ""
+
+#: config/elements/image_slider.php:130
+msgid "Images Fit"
+msgstr ""
+
+#: config/theme-options.php:717
+msgid "Images Placeholder"
+msgstr ""
+
+#: config/elements/image_slider.php:121
+msgid "Images Size"
+msgstr ""
+
+#: config/elements/image_slider.php:142
+msgid "Images Style"
+msgstr ""
+
+#: admin/functions/demo-import.php:380
+msgid "Import completed"
+msgstr ""
+
+#: usof/templates/fields/grid_builder.php:243
+msgid "Import Grid Layout"
+msgstr ""
+
+#: usof/templates/fields/header_builder.php:319
+msgid "Import Header"
+msgstr ""
+
+#: admin/functions/demo-import.php:376
+msgid "Importing Demo Content..."
+msgstr ""
+
+#: config/elements/vc_row.php:643
+msgid "Improves appearance of columns with background"
+msgstr ""
+
+#: config/theme-options.php:1935
+msgid "In case when you need more Google Fonts in theme elements."
+msgstr ""
+
+#: config/elements/additional_menu.php:75
+#: config/elements/additional_menu.php:98
+#: config/elements/additional_menu.php:126
+#: config/elements/additional_menu.php:155
+#: config/elements/additional_menu.php:172
+#: config/elements/additional_menu.php:183
+#: config/elements/additional_menu.php:194
+#: config/elements/additional_menu.php:205
+#: config/elements/additional_menu.php:216
+#: config/elements/additional_menu.php:227
+#: config/elements/wc_account_navigation.php:74
+#: config/elements/wc_account_navigation.php:97
+#: config/elements/wc_account_navigation.php:125
+#: config/elements/wc_account_navigation.php:154
+#: config/elements/wc_account_navigation.php:171
+#: config/elements/wc_account_navigation.php:182
+#: config/elements/wc_account_navigation.php:193
+#: config/elements/wc_account_navigation.php:204
+#: config/elements/wc_account_navigation.php:215
+#: config/elements/wc_account_navigation.php:226
+msgctxt "In menus"
+msgid "Main items"
+msgstr ""
+
+#: config/elements/additional_menu.php:239
+#: config/elements/additional_menu.php:264
+msgctxt "In menus"
+msgid "Sub items"
+msgstr ""
+
+#: config/elements_misc.php:105
+msgid "In milliseconds:"
+msgstr ""
+
+#: config/elements_misc.php:72 config/elements/post_content.php:95
+msgid "In pixels:"
+msgstr ""
+
+#: config/elements_misc.php:102
+msgid "In seconds:"
+msgstr ""
+
+#: config/elements/grid.php:265
+msgid "Include Featured image"
+msgstr ""
+
+#: config/elements_conditional_options.php:180
+msgid "Includes"
+msgstr ""
+
+#: config/elements/carousel.php:185
+msgid "Infinite loop"
+msgstr ""
+
+#: config/elements/post_taxonomy.php:91
+#: config/elements/post_custom_field.php:242 config/elements/post_title.php:58
+#: config/elements/post_comments.php:74 config/elements/post_author.php:47
+msgid "Inherit from text color"
+msgstr ""
+
+#: config/header-settings.php:376 config/theme-options.php:923
+#: config/menu-dropdown.php:141 config/elements/vc_row.php:263
+#: config/elements/image_slider.php:133
+msgid "Initial"
+msgstr ""
+
+#: config/elements/counter.php:21
+msgid "Initial counting value"
+msgstr ""
+
+#: config/elements/vc_column_inner.php:9
+msgid "Inner Column"
+msgstr ""
+
+#: config/menu-dropdown.php:88
+msgid "Inner indents"
+msgstr ""
+
+#: config/elements/vc_row_inner.php:49
+msgid "Inner Row"
+msgstr ""
+
+#: config/theme-options.php:2213 config/theme-options.php:2298
+#: config/theme-options.php:2643 config/theme-options.php:2728
+msgid "Inner shadow"
+msgstr ""
+
+#: config/elements/cform.php:83
+msgid "Input mode"
+msgstr ""
+
+#: config/elements/carousel.php:105
+msgid "Inside"
+msgstr ""
+
+#: config/elements/post_content.php:40
+msgid "Inside a content"
+msgstr ""
+
+#: config/elements/page_block.php:47
+msgid "Inside selected Reusable Block"
+msgstr ""
+
+#: config/elements/popup.php:198
+msgid "Inside the Popup"
+msgstr ""
+
+#: config/elements/flipbox.php:146
+msgid "Inside the Solid circle"
+msgstr ""
+
+#: config/elements/popup.php:17 config/elements/ibanner.php:16
+#: config/elements/counter.php:16 config/elements/progbar.php:15
+#: config/elements/flipbox.php:16 config/elements/itext.php:16
+#: config/elements/scroller.php:16 config/elements/image_slider.php:15
+#: config/elements/message.php:14
+msgid "Interactive"
+msgstr ""
+
+#: config/assets.php:643 config/elements/ibanner.php:14
+msgid "Interactive Banner"
+msgstr ""
+
+#: config/assets.php:655 config/elements/itext.php:14
+msgid "Interactive Text"
+msgstr ""
+
+#: config/theme-options.php:2898
+msgid "Intermediate Breadcrumbs Page"
+msgstr ""
+
+#: config/widgets.php:175 config/widgets.php:177
+#: templates/elements/grid_order.php:145 config/elements/grid.php:328
+#: config/elements/grid_order.php:59
+msgid "Invert order"
+msgstr ""
+
+#: config/elements/post_navigation.php:35
+msgid "Invert position of previous and next"
+msgstr ""
+
+#: functions/ajax/cform.php:168
+msgid "IP address"
+msgstr ""
+
+#: config/theme-options.php:3480
+msgid "It helps keep free space in your storage."
+msgstr ""
+
+#: config/theme-options.php:3465
+#, php-format
+msgid "It is a built-in WordPress feature described in %sthe article%s."
+msgstr ""
+
+#: config/theme-options.php:650
+#, php-format
+msgid ""
+"It's not possible to switch off this setting, while %s is activated for "
+"development."
+msgstr ""
+
+#: config/theme-options.php:619 config/theme-options.php:1997
+#: config/theme-options.php:2430
+msgid "Italic"
+msgstr ""
+
+#: config/elements_design_options.php:122 usof/templates/fields/font.php:170
+#: usof/templates/fields/font.php:172 usof/templates/fields/font.php:174
+#: usof/templates/fields/font.php:176 usof/templates/fields/font.php:178
+#: usof/templates/fields/font.php:180 usof/templates/fields/font.php:182
+#: usof/templates/fields/font.php:184 usof/templates/fields/font.php:186
+msgid "italic"
+msgstr ""
+
+#: config/elements/grid.php:572
+msgid "Items animation on load"
+msgstr ""
+
+#: config/elements/grid.php:662
+msgid "Items Aspect Ratio"
+msgstr ""
+
+#: config/elements/vwrapper.php:29 config/elements/hwrapper.php:30
+msgid "Items Horizontal Alignment"
+msgstr ""
+
+#: config/elements/grid.php:191
+msgid "Items of the current query (used for archives and search results)"
+msgstr ""
+
+#: config/widgets.php:197 config/widgets.php:237 config/elements/grid.php:340
+#: config/elements/grid.php:349
+msgid "Items Quantity"
+msgstr ""
+
+#: config/elements/grid.php:378
+msgid "Items Quantity to skip"
+msgstr ""
+
+#: config/elements/vwrapper.php:45 config/elements/hwrapper.php:46
+msgid "Items Vertical Alignment"
+msgstr ""
+
+#: config/elements/grid.php:190
+msgid "Items with the same taxonomy of current post"
+msgstr ""
+
+#: admin/functions/demo-import.php:381
+#, php-format
+msgid ""
+"Just check the result on %syour site%s or start customize via %sTheme "
+"Options%s."
+msgstr ""
+
+#: config/theme-options.php:3609
+msgid "Keep \"http/https\" in the paths to files"
+msgstr ""
+
+#: config/theme-options.php:744
+msgid "Keyboard Accessibility"
+msgstr ""
+
+#: config/menu-dropdown.php:188 config/elements/menu.php:286
+msgid "Label and Arrow"
+msgstr ""
+
+#: config/grid-settings.php:69 config/grid-settings.php:70
+#: config/grid-settings.php:71 config/elements/post_custom_field.php:151
+#: config/elements/post_custom_field.php:152
+#: config/elements/post_custom_field.php:153 config/elements/ibanner.php:96
+#: config/elements/ibanner.php:97 config/elements/ibanner.php:98
+#: config/elements/grid.php:667 config/elements/grid.php:668
+#: config/elements/grid.php:669 config/elements/image.php:91
+#: config/elements/image.php:92 config/elements/image.php:93
+#: config/elements/post_image.php:86 config/elements/post_image.php:87
+#: config/elements/post_image.php:88
+msgid "landscape"
+msgstr ""
+
+#: functions/helpers.php:3141 config/elements/image.php:218
+#: config/elements/image.php:260 config/elements/search.php:100
+#: config/elements/search.php:133 config/elements/menu.php:305
+#: config/elements/cart.php:88
+msgid "Laptops"
+msgstr ""
+
+#: config/theme-options.php:1094
+msgid "Laptops Screen Width"
+msgstr ""
+
+#: usof/functions/ajax.php:101 usof/templates/fields/backup.php:24
+msgid "Last Backup"
+msgstr ""
+
+#: config/theme-options.php:3332 config/elements/person.php:102
+#: config/elements/additional_menu.php:32 config/elements/grid_filter.php:111
+#: config/elements/wc_account_navigation.php:31 config/elements/search.php:44
+#: config/elements/post_navigation.php:23
+msgid "Layout"
+msgstr ""
+
+#: config/grid-templates.php:1415 config/seo-meta-fields.php:18
+#: config/seo-meta-fields.php:25 config/theme-options.php:1960
+#: config/theme-options.php:3380 config/theme-options.php:3552
+#: config/elements/cform.php:17 config/elements/cform.php:99
+msgid "Learn more"
+msgstr ""
+
+#: config/elements/additional_menu.php:55
+#: config/elements/wc_account_navigation.php:54
+msgid "Leave blank to enable horizontal scrolling on small screens."
+msgstr ""
+
+#: config/elements/breadcrumbs.php:23
+msgid "Leave blank to hide the homepage link"
+msgstr ""
+
+#: config/elements/grid_filter.php:218
+msgid "Leave blank to not apply mobile view."
+msgstr ""
+
+#: config/elements/post_content.php:115 config/elements/vc_column_text.php:69
+msgid "Leave blank to prevent content from being hidden again."
+msgstr ""
+
+#: config/seo-meta-fields.php:11 config/elements/grid_filter.php:89
+#: config/elements/vc_column.php:31 config/elements/grid_order.php:65
+msgid "Leave blank to use the default."
+msgstr ""
+
+#: config/theme-options.php:511 config/theme-options.php:1888
+msgid "Leave blank to use the main Font Size value"
+msgstr ""
+
+#: config/elements/cform.php:304
+msgid "Leave empty to indicate the page from which this form was submitted."
+msgstr ""
+
+#: config/elements/vc_tta_tabs.php:138 config/elements/vc_tta_tour.php:172
+msgid ""
+"Leave empty to transform automatically based on the total width of the tabs."
+msgstr ""
+
+#: templates/comments.php:17
+msgid "Leave new"
+msgstr ""
+
+#: config/elements_conditional_options.php:192
+#: config/elements_conditional_options.php:320
+msgid "Less than"
+msgstr ""
+
+#: config/elements_design_options.php:69 config/theme-options.php:535
+#: config/theme-options.php:2413 config/theme-options.php:2836
+msgid "Letter Spacing"
+msgstr ""
+
+#: config/elements_design_options.php:90 config/elements/counter.php:133
+#: config/elements/vc_tta_tabs.php:78 config/elements/vc_tta_tour.php:112
+#: usof/templates/fields/font.php:173 usof/templates/fields/font.php:174
+msgid "light"
+msgstr ""
+
+#: config/color-schemes.php:786
+msgid "Light Ocean"
+msgstr ""
+
+#: config/color-schemes.php:68
+msgid "Light Pink"
+msgstr ""
+
+#: config/color-schemes.php:121
+msgid "Light Tangerine"
+msgstr ""
+
+#: config/elements/menu.php:114
+msgid "Limit full-width dropdowns by a menu width"
+msgstr ""
+
+#: config/elements/separator.php:87
+msgid "Line Color"
+msgstr ""
+
+#: config/elements_design_options.php:61 config/theme-options.php:517
+#: config/theme-options.php:1894 config/theme-options.php:2363
+#: config/elements/vc_tta_tabs.php:124 config/elements/vc_tta_tour.php:158
+msgid "Line height"
+msgstr ""
+
+#: config/theme-options.php:1912
+msgid "Line height on Mobiles"
+msgstr ""
+
+#: config/elements/separator.php:103
+msgid "Line Style"
+msgstr ""
+
+#: config/elements/separator.php:70
+msgid "Line Thickness"
+msgstr ""
+
+#: config/elements/separator.php:56
+msgid "Line Width"
+msgstr ""
+
+#: config/widgets.php:286 config/elements/socials.php:127
+msgid "Link (theme color)"
+msgstr ""
+
+#: config/elements/post_taxonomy.php:89
+#: config/elements/post_custom_field.php:240 config/elements/post_title.php:56
+#: config/elements/post_comments.php:72 config/elements/post_author.php:45
+msgid "Link Color"
+msgstr ""
+
+#: config/header-settings.php:256 config/header-settings.php:288
+#: config/header-settings.php:443 config/header-settings.php:478
+#: config/header-settings.php:577 config/header-settings.php:609
+#: config/theme-options.php:1499 config/theme-options.php:1518
+#: config/theme-options.php:1556 config/theme-options.php:1577
+#: config/theme-options.php:1633 config/theme-options.php:1714
+#: config/theme-options.php:1795 config/theme-options.php:1851
+msgid "Link on hover"
+msgstr ""
+
+#: config/theme-options.php:464
+msgid "Link to \"woff2\" font file."
+msgstr ""
+
+#: config/elements/vc_row.php:372
+msgid "Link to YouTube, Vimeo or video file (mp4, webm, ogg)"
+msgstr ""
+
+#: config/elements/post_comments.php:26
+msgid "List of comments with response form"
+msgstr ""
+
+#: config/elements/grid.php:156 config/elements/carousel.php:36
+msgid "List of images, posts, pages or any custom post types"
+msgstr ""
+
+#: config/elements/grid.php:154
+msgid "Listing"
+msgstr ""
+
+#: config/elements/grid.php:419
+msgid "Load items on button click"
+msgstr ""
+
+#: config/elements/grid.php:420
+msgid "Load items on page scroll"
+msgstr ""
+
+#: config/elements/grid.php:448
+msgid "Load More"
+msgstr ""
+
+#: config/elements_conditional_options.php:289
+msgid "Logged in"
+msgstr ""
+
+#: config/elements_conditional_options.php:290
+msgid "Logged out"
+msgstr ""
+
+#: config/assets.php:673 config/widgets.php:119 config/white-label.php:46
+#: config/elements/login.php:6
+msgid "Login"
+msgstr ""
+
+#: config/widgets.php:120
+msgid "Login Form"
+msgstr ""
+
+#: config/white-label.php:44
+msgid "Login Page Icon"
+msgstr ""
+
+#: config/widgets.php:140 config/elements/login.php:24
+msgid "Login Redirect URL"
+msgstr ""
+
+#: config/widgets.php:145 config/elements/login.php:29
+msgid "Logout Redirect URL"
+msgstr ""
+
+#: config/widgets.php:135 config/elements/login.php:19
+msgid "Lost Password URL"
+msgstr ""
+
+#: usof/templates/fields/header_builder.php:224
+msgid "Main Area"
+msgstr ""
+
+#: config/elements/menu.php:252
+msgid "Main Items Font Size"
+msgstr ""
+
+#: config/elements/menu.php:69
+msgid "Main Items Height"
+msgstr ""
+
+#: config/elements/menu.php:75
+msgid "Main Items Hover Effect"
+msgstr ""
+
+#: config/theme-options.php:638 functions/post.php:215
+msgid "Maintenance Mode"
+msgstr ""
+
+#: config/elements/itext.php:76
+msgid "Make the dynamic part bold"
+msgstr ""
+
+#: config/header-settings.php:122
+msgid "Make the header transparent at its initial position"
+msgstr ""
+
+#: config/theme-options.php:3710
+msgid "Manage Options"
+msgstr ""
+
+#: functions/grid.php:1525
+msgid "Manually for selected images and items"
+msgstr ""
+
+#: config/elements/grid.php:193
+msgid "Manually selected items"
+msgstr ""
+
+#: config/elements/grid.php:198
+msgid "Manually selected terms"
+msgstr ""
+
+#: config/elements/grid.php:341
+msgid "Manually, if available"
+msgstr ""
+
+#: config/elements/gmaps.php:22
+msgid "Map"
+msgstr ""
+
+#: config/elements/gmaps.php:141
+msgid "Map Provider"
+msgstr ""
+
+#: config/elements/gmaps.php:200 config/elements/gmaps.php:209
+msgid "Map Style"
+msgstr ""
+
+#: config/elements/gmaps.php:152
+msgid "Map Type"
+msgstr ""
+
+#: config/elements/gmaps.php:166
+msgid "Map Zoom"
+msgstr ""
+
+#: config/elements/pricing.php:101
+msgid "Mark this item as featured"
+msgstr ""
+
+#: config/elements/gmaps.php:71 config/elements/gmaps.php:116
+msgid "Marker Image Size"
+msgstr ""
+
+#: config/elements/gmaps.php:48 config/elements/gmaps.php:103
+msgid "Marker Text"
+msgstr ""
+
+#: functions/shortcodes.php:304 config/elements/grid.php:544
+msgid "Masonry"
+msgstr ""
+
+#: config/color-schemes.php:633
+msgid "Material Design"
+msgstr ""
+
+#: config/elements_misc.php:31
+msgid "Material Design Effect"
+msgstr ""
+
+#: templates/elements/grid_filter.php:641
+#: templates/elements/grid_filter.php:642
+msgid "Max"
+msgstr ""
+
+#: config/elements/grid_filter.php:192
+msgid "Max Height of the list of values"
+msgstr ""
+
+#: config/theme-options.php:3545 functions/post-types.php:188
+msgid "Media Categories"
+msgstr ""
+
+#: config/elements_design_options.php:92 config/elements/counter.php:135
+#: config/elements/vc_tta_tabs.php:80 config/elements/vc_tta_tour.php:114
+#: usof/templates/fields/font.php:177 usof/templates/fields/font.php:178
+msgid "medium"
+msgstr ""
+
+#: config/menu-dropdown.php:55
+msgid "Menu item"
+msgstr ""
+
+#: config/elements/additional_menu.php:165
+#: config/elements/wc_account_navigation.php:164
+msgid "Menu Item Background"
+msgstr ""
+
+#: config/elements/additional_menu.php:187
+#: config/elements/wc_account_navigation.php:186 config/elements/menu.php:150
+msgid "Menu Item Background on hover"
+msgstr ""
+
+#: config/elements/additional_menu.php:176
+#: config/elements/wc_account_navigation.php:175
+msgid "Menu Item Text"
+msgstr ""
+
+#: config/elements/additional_menu.php:198
+#: config/elements/wc_account_navigation.php:197 config/elements/menu.php:157
+msgid "Menu Item Text on hover"
+msgstr ""
+
+#: config/elements/menu.php:268
+msgid "Menu Items Alignment"
+msgstr ""
+
+#: config/theme-options.php:3674
+msgid "Merge Google Fonts styles into single CSS file"
+msgstr ""
+
+#: config/elements/cform.php:310
+msgid "Message after sending"
+msgstr ""
+
+#: config/assets.php:768 config/elements/message.php:13
+msgid "Message Box"
+msgstr ""
+
+#: functions/ajax/cform.php:245
+#, php-format
+msgid "Message from %s"
+msgstr ""
+
+#: config/elements/message.php:36
+msgid "Message Text"
+msgstr ""
+
+#: config/elements/grid.php:545
+msgid "METRO (works with square items only)"
+msgstr ""
+
+#: config/color-schemes.php:734
+msgid "Mild Ocean"
+msgstr ""
+
+#: templates/elements/grid_filter.php:635
+#: templates/elements/grid_filter.php:636
+msgid "Min"
+msgstr ""
+
+#: config/elements_design_options.php:230
+msgid "Min Height"
+msgstr ""
+
+#: config/elements_design_options.php:222
+msgid "Min Width"
+msgstr ""
+
+#: config/menu-dropdown.php:178 config/elements/menu.php:215
+#: config/elements/menu.php:226 config/elements/menu.php:236
+#: config/elements/menu.php:249 config/elements/menu.php:257
+#: config/elements/menu.php:265 config/elements/menu.php:278
+#: config/elements/menu.php:289 config/elements/menu.php:294
+#: config/elements/menu.php:302 config/elements/menu.php:310
+#: config/elements/menu.php:318 config/elements/menu.php:326
+#: config/elements/menu.php:339 config/elements/menu.php:350
+#: config/elements/menu.php:357
+msgid "Mobile Menu"
+msgstr ""
+
+#: config/elements/menu.php:218
+msgid "Mobile Menu Layout"
+msgstr ""
+
+#: config/elements/grid_filter.php:217
+msgid "Mobile view at screen width"
+msgstr ""
+
+#: config/widgets.php:104 functions/helpers.php:3149
+#: config/elements/grid_filter.php:221 config/elements/grid_filter.php:228
+#: config/elements/grid_filter.php:245 config/elements/grid_filter.php:255
+#: config/elements/grid_filter.php:266 config/elements/image.php:236
+#: config/elements/image.php:278 config/elements/search.php:116
+#: config/elements/menu.php:321 config/elements/contacts.php:32
+#: config/elements/cart.php:104
+msgid "Mobiles"
+msgstr ""
+
+#: config/theme-options.php:1120
+msgid "Mobiles Screen Width"
+msgstr ""
+
+#: config/elements/person.php:109 config/elements/vc_tta_tabs.php:24
+#: config/elements/search.php:49 config/elements/wc_order_data.php:36
+#: config/elements/vc_tta_tour.php:24
+msgid "Modern"
+msgstr ""
+
+#: config/meta-boxes.php:289 config/theme-options.php:3458
+#: config/elements/cform.php:293 config/elements/cform.php:300
+#: config/elements/cform.php:307 config/elements/cform.php:315
+#: config/elements/cform.php:326 config/elements/cform.php:352
+#: config/elements/person.php:98 config/elements/person.php:115
+#: config/elements/person.php:132 config/elements/person.php:143
+#: config/elements/person.php:150 config/elements/person.php:157
+#: config/elements/person.php:164 config/elements/person.php:171
+#: config/elements/person.php:178 config/elements/person.php:185
+#: config/elements/person.php:192 config/elements/person.php:200
+#: config/elements/person.php:207 config/elements/post_content.php:90
+#: config/elements/post_content.php:99 config/elements/post_content.php:107
+#: config/elements/post_content.php:119 config/elements/post_content.php:137
+#: config/elements/grid.php:189 config/elements/vc_column_text.php:38
+#: config/elements/vc_column_text.php:53 config/elements/vc_column_text.php:61
+#: config/elements/vc_column_text.php:73 config/elements/vc_column_text.php:91
+msgid "More Options"
+msgstr ""
+
+#: config/theme-options.php:3623
+msgid "Move jQuery scripts to the footer"
+msgstr ""
+
+#: config/elements/cform.php:158
+msgid "Move title on focus"
+msgstr ""
+
+#: config/elements/person.php:46
+msgid "Name HTML tag"
+msgstr ""
+
+#: config/elements/person.php:58
+msgid "Name Size"
+msgstr ""
+
+#: config/color-schemes.php:836
+msgid "Nautical Knot"
+msgstr ""
+
+#: config/elements/post_navigation.php:41
+msgid "Navigate within the specified taxonomy"
+msgstr ""
+
+#: config/elements/carousel.php:160
+msgid "Navigation Dots"
+msgstr ""
+
+#: usof/functions/interface.php:138
+msgid "New"
+msgstr ""
+
+#: templates/footer.php:111
+msgid "Next (Right arrow key)"
+msgstr ""
+
+#: config/elements/carousel.php:145 config/elements/carousel.php:292
+#: config/elements/carousel.php:337 config/elements/carousel.php:382
+msgid "Next Item Offset"
+msgstr ""
+
+#: config/elements/post_navigation.php:62
+msgid "Next Post subtitle"
+msgstr ""
+
+#: config/color-schemes.php:1145
+msgid "Night Fire"
+msgstr ""
+
+#: usof/templates/fields/backup.php:26
+msgid "No backups yet"
+msgstr ""
+
+#: functions/helpers.php:1389
+msgid "No font specified"
+msgstr ""
+
+#: usof/templates/fields/slider.php:94
+msgid "No units"
+msgstr ""
+
+#: config/elements_design_options.php:91 config/elements_design_options.php:121
+#: config/elements/counter.php:134 config/elements/vc_tta_tabs.php:79
+#: config/elements/vc_tta_tour.php:113 usof/templates/fields/font.php:175
+#: usof/templates/fields/font.php:176
+msgid "normal"
+msgstr ""
+
+#: config/elements_conditional_options.php:190
+msgid "Not equal"
+msgstr ""
+
+#: config/elements/grid_filter.php:71
+msgid "Number Range"
+msgstr ""
+
+#: config/elements/grid.php:418
+msgid "Numbered pagination"
+msgstr ""
+
+#: config/elements/grid.php:368
+msgid "of previous Grids on this page"
+msgstr ""
+
+#: config/elements/grid_filter.php:172 config/elements/dropdown.php:121
+#: config/elements/vc_tta_tabs.php:53 config/elements/vc_tta_tour.php:37
+msgid "On click"
+msgstr ""
+
+#: config/elements/grid_filter.php:171 config/elements/dropdown.php:122
+#: config/elements/vc_tta_tabs.php:54 config/elements/vc_tta_tour.php:38
+msgid "On hover"
+msgstr ""
+
+#: config/elements/post_navigation.php:27
+msgid "On sides of the screen"
+msgstr ""
+
+#: config/elements/post_custom_field.php:205 config/elements/image.php:150
+#: config/elements/btn.php:43 config/elements/text.php:49
+msgid "Onclick JavaScript action"
+msgstr ""
+
+#: config/elements_hover_options.php:18
+msgid "Opacity"
+msgstr ""
+
+#: config/elements_hover_options.php:34
+msgid "Opacity on Hover"
+msgstr ""
+
+#: config/elements/dropdown.php:118
+msgid "Open Dropdown"
+msgstr ""
+
+#: config/elements/post_custom_field.php:203 config/elements/image.php:149
+#: config/elements/post_image.php:30
+msgid "Open original image in a popup"
+msgstr ""
+
+#: config/elements/grid.php:707
+msgid "Opens a Post Image in a popup"
+msgstr ""
+
+#: config/elements/grid.php:706
+msgid "Opens a Post in a popup"
+msgstr ""
+
+#: admin/functions/optimize-assets.php:626
+msgid "Optimization completed"
+msgstr ""
+
+#: config/theme-options.php:3646
+msgid "Optimize JS and CSS size"
+msgstr ""
+
+#: usof/templates/fields/transfer.php:25
+msgid "Options imported"
+msgstr ""
+
+#: usof/functions/ajax.php:78 usof/templates/fields/reset.php:25
+msgid "Options were reset"
+msgstr ""
+
+#: config/elements/gmaps.php:39
+msgid "Or use geo coordinates, for example:"
+msgstr ""
+
+#: config/elements/gmaps.php:97
+#, php-format
+msgid "Or use geo coordinates, for example: %s"
+msgstr ""
+
+#: config/elements/grid.php:320 config/elements/grid_order.php:52
+msgid "Order by numeric values"
+msgstr ""
+
+#: config/header-settings.php:74
+msgid "Orientation"
+msgstr ""
+
+#: config/elements/image.php:68 config/elements/sharing.php:43
+#: config/elements/socials.php:111 config/elements/iconbox.php:100
+msgid "Outlined"
+msgstr ""
+
+#: config/elements/carousel.php:104
+msgid "Outside"
+msgstr ""
+
+#: config/elements/popup.php:197
+msgid "Outside the Popup"
+msgstr ""
+
+#: config/elements/image.php:133
+msgid "Over the image"
+msgstr ""
+
+#: config/elements/vc_row.php:121
+msgid "Overlap the content of this Row"
+msgstr ""
+
+#: config/theme-options.php:610
+msgid "Override color globally"
+msgstr ""
+
+#: config/menu-dropdown.php:180
+msgid "Override settings for this menu item"
+msgstr ""
+
+#: config/meta-boxes.php:41 config/meta-boxes.php:88
+msgid "Override this setting"
+msgstr ""
+
+#: config/elements/grid.php:700
+msgid "Overriding Link"
+msgstr ""
+
+#: config/theme-options.php:1178
+msgid "Page \"404 Not Found\""
+msgstr ""
+
+#: builder/classes/USBuilder.php:965
+msgid "Page Custom CSS"
+msgstr ""
+
+#: config/meta-boxes.php:64
+msgid "Page Layout"
+msgstr ""
+
+#: config/elements/popup.php:63
+msgid "Page load"
+msgstr ""
+
+#: config/theme-options.php:794
+msgid "Page Scroll Amount to Show the Button"
+msgstr ""
+
+#: config/assets.php:799 config/elements/scroller.php:14
+msgid "Page Scroller"
+msgstr ""
+
+#: builder/classes/USBuilder.php:967
+msgid "Page Settings"
+msgstr ""
+
+#: config/meta-boxes.php:151 config/theme-options.php:149
+#: config/theme-options.php:250 config/theme-options.php:352
+#: config/theme-options.php:1222 config/theme-options.php:1318
+#: config/theme-options.php:1408 config/theme-options.php:3146
+#: config/theme-options.php:3231 config/theme-options.php:3313
+#: functions/post-types.php:258 functions/header.php:986
+#: functions/meta-tags.php:214
+msgid "Page Template"
+msgstr ""
+
+#: builder/classes/USBuilder.php:978
+msgid "Page Template updated"
+msgstr ""
+
+#: config/elements_misc.php:96 functions/post-types.php:257
+#: admin/functions/demo-import.php:328 admin/functions/demo-import.php:761
+msgid "Page Templates"
+msgstr ""
+
+#: config/elements_conditional_options.php:139
+msgid "Page URL"
+msgstr ""
+
+#: config/theme-options.php:1137 functions/post-types.php:1225
+#: functions/post-types.php:1230 functions/post-types.php:1235
+#: functions/meta-tags.php:286
+msgid "Pages Layout"
+msgstr ""
+
+#: config/elements/grid.php:432
+msgid "Pagination Style"
+msgstr ""
+
+#: config/elements/vc_row.php:331
+msgid "Parallax Background Width"
+msgstr ""
+
+#: config/elements/vc_row.php:317
+msgid "Parallax Effect"
+msgstr ""
+
+#: config/elements/post_content.php:28
+msgid "Part of a content"
+msgstr ""
+
+#: plugins-support/js_composer/js_composer.php:1143
+#: plugins-support/js_composer/js_composer.php:1173
+#: builder/classes/USBuilder.php:968
+msgid "Paste Row/Section"
+msgstr ""
+
+#: config/elements/image_slider.php:101
+msgid "Pause on hover"
+msgstr ""
+
+#: config/elements/checkout_payment.php:31
+msgid "Payment Methods Style"
+msgstr ""
+
+#: config/assets.php:812 config/elements/person.php:14
+msgid "Person"
+msgstr ""
+
+#: config/widgets.php:99 migrations/Zephyr/us_migration_5_4.php:72
+#: migrations/Zephyr/us_migration_5_4.php:79
+#: migrations/Impreza/us_migration_5_7.php:72
+#: migrations/Impreza/us_migration_5_7.php:79 config/elements/contacts.php:26
+msgid "Phone"
+msgstr ""
+
+#: config/elements/image.php:71
+msgid "Phone 12 Flat"
+msgstr ""
+
+#: config/elements/image.php:74 config/elements/image_slider.php:148
+msgid "Phone 6 Black Flat"
+msgstr ""
+
+#: config/elements/image.php:72 config/elements/image_slider.php:146
+msgid "Phone 6 Black Realistic"
+msgstr ""
+
+#: config/elements/image.php:75 config/elements/image_slider.php:149
+msgid "Phone 6 White Flat"
+msgstr ""
+
+#: config/elements/image.php:73 config/elements/image_slider.php:147
+msgid "Phone 6 White Realistic"
+msgstr ""
+
+#: config/elements/person.php:22
+msgid "Photo"
+msgstr ""
+
+#: config/elements/person.php:121
+msgid "Photo Effect"
+msgstr ""
+
+#: config/elements/person.php:29
+msgid "Photo on hover (optional)"
+msgstr ""
+
+#: config/elements/person.php:15
+msgid "Photo, name, description and social links"
+msgstr ""
+
+#: config/elements/post_author.php:70
+msgid "Picture Position"
+msgstr ""
+
+#: config/elements/post_author.php:61
+msgid "Picture Width"
+msgstr ""
+
+#: templates/elements/sharing.php:68
+msgid "Pin this"
+msgstr ""
+
+#: config/elements/cform.php:118 config/elements/search.php:21
+#: config/elements/wc_coupon_form.php:31
+msgid "Placeholder"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:84
+msgid "Plus"
+msgstr ""
+
+#: config/assets.php:841 config/elements/popup.php:16
+msgid "Popup"
+msgstr ""
+
+#: config/elements/popup.php:253
+msgid "Popup Background"
+msgstr ""
+
+#: config/elements/popup.php:223
+msgid "Popup Corners Radius"
+msgstr ""
+
+#: config/elements/popup.php:214
+msgid "Popup Padding"
+msgstr ""
+
+#: config/assets.php:697
+msgid "Popup styles"
+msgstr ""
+
+#: config/elements/popup.php:262
+msgid "Popup Text"
+msgstr ""
+
+#: config/elements/popup.php:206 config/elements/grid.php:714
+msgid "Popup Width"
+msgstr ""
+
+#: config/grid-templates.php:2132 config/grid-templates.php:2220
+#: config/grid-templates.php:2294 config/grid-templates.php:2367
+#: config/grid-templates.php:2438 config/grid-templates.php:2512
+#: config/grid-templates.php:2581 config/grid-templates.php:2679
+#: config/grid-templates.php:2754 config/grid-templates.php:2825
+#: config/grid-templates.php:2904 config/grid-templates.php:2988
+#: config/grid-templates.php:3065 config/grid-templates.php:3160
+#: config/grid-templates.php:3236 config/grid-templates.php:3307
+#: config/grid-templates.php:3383 config/grid-templates.php:3465
+#: config/grid-templates.php:3553 config/widgets.php:155 config/widgets.php:156
+#: config/theme-options.php:2893 config/theme-options.php:2931
+#: config/theme-options.php:2936 config/theme-options.php:2938
+#: config/theme-options.php:3533 functions/post-types.php:56
+#: admin/functions/demo-import.php:290 admin/functions/demo-import.php:293
+#: admin/functions/demo-import.php:731
+msgid "Portfolio"
+msgstr ""
+
+#: config/theme-options.php:2968 config/theme-options.php:2970
+#: functions/post-types.php:30
+msgid "Portfolio Categories"
+msgstr ""
+
+#: config/theme-options.php:2915
+msgid "Portfolio Category Slug"
+msgstr ""
+
+#: config/theme-options.php:2944 config/theme-options.php:2946
+#: functions/post-types.php:57
+msgid "Portfolio Page"
+msgstr ""
+
+#: config/theme-options.php:2909
+msgid "Portfolio Page Slug"
+msgstr ""
+
+#: config/theme-options.php:2922
+msgid "Portfolio Tag Slug"
+msgstr ""
+
+#: config/theme-options.php:2976 config/theme-options.php:2978
+#: functions/post-types.php:43
+msgid "Portfolio Tags"
+msgstr ""
+
+#: config/grid-templates.php:2133
+msgid "Portfolio Templates"
+msgstr ""
+
+#: config/grid-settings.php:72 config/grid-settings.php:73
+#: config/elements/post_custom_field.php:154
+#: config/elements/post_custom_field.php:155 config/elements/ibanner.php:99
+#: config/elements/ibanner.php:100 config/elements/ibanner.php:101
+#: config/elements/grid.php:670 config/elements/grid.php:671
+#: config/elements/image.php:94 config/elements/image.php:95
+#: config/elements/post_image.php:89 config/elements/post_image.php:90
+msgid "portrait"
+msgstr ""
+
+#: config/elements_design_options.php:393
+#: config/elements_design_options.php:396
+#: config/elements_design_options.php:401
+#: config/elements_design_options.php:411
+#: config/elements_design_options.php:420
+#: config/elements_design_options.php:429
+#: config/elements_design_options.php:437 config/elements/vc_tta_tour.php:45
+msgid "Position"
+msgstr ""
+
+#: config/elements/post_author.php:15
+msgid "Post Author"
+msgstr ""
+
+#: config/elements/post_comments.php:15
+msgid "Post Comments"
+msgstr ""
+
+#: config/elements/post_content.php:14
+msgid "Post Content"
+msgstr ""
+
+#: config/elements/post_custom_field.php:94
+msgid "Post Custom Field"
+msgstr ""
+
+#: config/elements/post_date.php:26
+msgid "Post Date"
+msgstr ""
+
+#: config/assets.php:863 config/elements/post_taxonomy.php:18
+#: config/elements/breadcrumbs.php:16 config/elements/post_custom_field.php:95
+#: config/elements/post_content.php:15 config/elements/post_date.php:27
+#: config/elements/post_image.php:17 config/elements/post_navigation.php:16
+#: config/elements/post_title.php:17 config/elements/post_views.php:15
+#: config/elements/post_comments.php:16 config/elements/post_author.php:16
+msgid "Post Elements"
+msgstr ""
+
+#: config/elements_conditional_options.php:141
+#: config/elements_conditional_options.php:211
+msgid "Post ID"
+msgstr ""
+
+#: config/elements/post_image.php:16
+msgid "Post Image"
+msgstr ""
+
+#: config/elements/grid.php:641
+msgid "Post Image Size"
+msgstr ""
+
+#: config/assets.php:883 config/elements/post_navigation.php:15
+msgid "Post Prev/Next Navigation"
+msgstr ""
+
+#: config/elements/post_taxonomy.php:17
+msgid "Post Taxonomy"
+msgstr ""
+
+#: config/elements/post_title.php:16
+msgid "Post Title"
+msgstr ""
+
+#: config/elements/grid.php:653
+msgid "Post Title Size"
+msgstr ""
+
+#: config/elements_conditional_options.php:140
+msgid "Post Type"
+msgstr ""
+
+#: config/elements/post_views.php:14
+msgid "Post Views"
+msgstr ""
+
+#: config/elements/post_author.php:85
+msgid "Posts count"
+msgstr ""
+
+#: config/assets.php:824
+msgid "Preloader"
+msgstr ""
+
+#: config/theme-options.php:695
+msgid "Preloader Screen"
+msgstr ""
+
+#: functions/helpers.php:1306
+msgid "Preset Fonts"
+msgstr ""
+
+#: config/elements/grid.php:723 config/elements/carousel.php:48
+#: config/elements/image_slider.php:29
+msgid "Prev/Next arrows"
+msgstr ""
+
+#: templates/footer.php:110
+msgid "Previous (Left arrow key)"
+msgstr ""
+
+#: config/elements/post_navigation.php:54
+msgid "Previous Post subtitle"
+msgstr ""
+
+#: config/elements/pricing.php:105
+msgid "Price"
+msgstr ""
+
+#: config/elements/cart_table.php:76
+msgid "Price Before Quantity"
+msgstr ""
+
+#: config/elements/pricing.php:112
+msgid "Price Substring"
+msgstr ""
+
+#: config/assets.php:895 config/elements/pricing.php:65
+msgid "Pricing Table"
+msgstr ""
+
+#: config/elements/counter.php:67 config/elements/sharing.php:73
+#: config/elements/separator.php:92 config/elements/progbar.php:107
+#: config/elements/iconbox.php:112
+msgid "Primary (theme color)"
+msgstr ""
+
+#: config/elements/cta.php:76 config/elements/vc_row.php:233
+msgid "Primary bg & White text"
+msgstr ""
+
+#: config/theme-options.php:3007
+msgid "Primary Buttons Style"
+msgstr ""
+
+#: config/theme-options.php:1639 config/theme-options.php:1720
+msgid "Primary Color"
+msgstr ""
+
+#: config/assets.php:837
+msgid "Print styles"
+msgstr ""
+
+#: config/elements/product_ordering.php:13
+msgid "Product ordering"
+msgstr ""
+
+#: config/elements/cart_table.php:21
+msgid "Product Table"
+msgstr ""
+
+#: config/assets.php:907 config/elements/progbar.php:14
+msgid "Progress Bar"
+msgstr ""
+
+#: config/elements/progbar.php:104
+msgid "Progress Bar Color"
+msgstr ""
+
+#: config/elements/progbar.php:132
+msgid "Progress Bar Height"
+msgstr ""
+
+#: config/elements/progbar.php:20
+msgid "Progress Value"
+msgstr ""
+
+#: config/elements/counter.php:95
+msgid "Projects completed"
+msgstr ""
+
+#: config/color-schemes.php:272
+msgid "Purple Pearl"
+msgstr ""
+
+#: config/elements/cart.php:40
+msgid "Quantity Badge Background"
+msgstr ""
+
+#: config/elements/cart.php:50
+msgid "Quantity Badge Text"
+msgstr ""
+
+#: config/elements/cart_table.php:94
+msgid "Quantity Buttons Size"
+msgstr ""
+
+#: config/elements/cart_table.php:81
+msgid "Quantity Buttons Style"
+msgstr ""
+
+#: config/elements/vc_tta_tour.php:21 config/elements/vc_tta_tour.php:22
+#: config/elements/vc_tta_tour.php:23
+msgid "Radio"
+msgstr ""
+
+#: config/elements/cform.php:73 config/elements/grid_filter.php:70
+msgid "Radio buttons"
+msgstr ""
+
+#: config/meta-boxes.php:320 config/elements/post_custom_field.php:27
+msgid "Rating"
+msgstr ""
+
+#: config/theme-options.php:2017
+#, php-format
+msgid "Read about %s property"
+msgstr ""
+
+#: config/elements/cform.php:288
+msgid "Recipient Email"
+msgstr ""
+
+#: config/elements/login.php:34
+msgid "Recommended when page caching is enabled for logged in visitors."
+msgstr ""
+
+#: config/elements/message.php:28
+msgid "Red"
+msgstr ""
+
+#: config/color-schemes.php:886
+msgid "Red Modern"
+msgstr ""
+
+#: config/widgets.php:130 config/elements/login.php:14
+msgid "Register URL"
+msgstr ""
+
+#: config/elements/grid.php:543
+msgid "Regular Grid"
+msgstr ""
+
+#: config/theme-options.php:2315
+msgid "Relative Height"
+msgstr ""
+
+#: config/theme-options.php:2350
+msgid "Relative Width"
+msgstr ""
+
+#: config/theme-options.php:3003
+#, php-format
+msgid "Remove \"%s\" buttons"
+msgstr ""
+
+#: config/meta-boxes.php:112
+msgid "Remove header shadow"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:30
+msgid "Remove left and right indents"
+msgstr ""
+
+#: config/theme-options.php:2931
+#, php-format
+msgid "Rename \"%s\" labels"
+msgstr ""
+
+#: config/grid-settings.php:176 config/header-settings.php:384
+#: config/elements_design_options.php:165 config/theme-options.php:931
+#: config/menu-dropdown.php:150 config/elements/vc_row.php:301
+msgid "Repeat"
+msgstr ""
+
+#: config/elements/cform.php:140
+msgid "Required field"
+msgstr "Zorunlu alan"
+
+#: config/theme-options.php:3580
+msgid "Required for Sharing Buttons on AMP version of website."
+msgstr ""
+
+#: templates/elements/grid_filter.php:822
+#: templates/elements/grid_filter.php:838
+#: templates/elements/grid_filter.php:839
+#: usof/templates/fields/design_options.php:41
+msgid "Reset"
+msgstr ""
+
+#: usof/templates/fields/reset.php:19
+msgid "Reset Options"
+msgstr ""
+
+#: config/theme-options.php:3713
+msgid "Reset Theme Options"
+msgstr ""
+
+#: usof/templates/field.php:202 config/elements/grid.php:792
+#: config/elements/grid.php:803 config/elements/grid.php:819
+#: config/elements/grid.php:830 config/elements/grid.php:846
+#: config/elements/grid.php:857 config/elements/separator.php:191
+#: config/elements/separator.php:200 config/elements/separator.php:214
+#: config/elements/separator.php:223 config/elements/carousel.php:279
+#: config/elements/carousel.php:288 config/elements/carousel.php:303
+#: config/elements/carousel.php:310 config/elements/carousel.php:324
+#: config/elements/carousel.php:333 config/elements/carousel.php:348
+#: config/elements/carousel.php:355 config/elements/carousel.php:369
+#: config/elements/carousel.php:378 config/elements/carousel.php:393
+#: config/elements/carousel.php:400
+msgid "Responsive"
+msgstr ""
+
+#: usof/templates/fields/backup.php:36
+msgid "Restore Options"
+msgstr ""
+
+#: config/color-schemes.php:1037
+msgid "Retro Package"
+msgstr ""
+
+#: functions/post-types.php:282 config/elements/popup.php:24
+#: config/elements/page_block.php:25 config/elements/page_block.php:34
+msgid "Reusable Block"
+msgstr ""
+
+#: builder/classes/USBuilder.php:975
+msgid "Reusable Block updated"
+msgstr ""
+
+#: config/elements_misc.php:99 functions/post-types.php:281
+#: functions/header.php:987 admin/functions/demo-import.php:334
+#: admin/functions/demo-import.php:755
+msgid "Reusable Blocks"
+msgstr ""
+
+#: config/elements/vc_row.php:653
+msgid "Reverse order for columns stacking"
+msgstr ""
+
+#: config/elements/vc_row.php:347
+msgid "Reverse Vertical Parallax Effect"
+msgstr ""
+
+#: config/theme-options.php:723
+msgid "Ripple Effect"
+msgstr ""
+
+#: config/elements/gmaps.php:155
+msgid "Roadmap"
+msgstr ""
+
+#: config/elements/gmaps.php:156
+msgid "Roadmap + Terrain"
+msgstr ""
+
+#: config/elements/person.php:70
+msgid "Role"
+msgstr ""
+
+#: config/theme-options.php:733
+msgid "Round corners of theme elements"
+msgstr ""
+
+#: config/theme-options.php:730
+msgid "Rounded Corners"
+msgstr ""
+
+#: config/widgets.php:295 config/elements/socials.php:95
+msgid "Rounded Square"
+msgstr ""
+
+#: config/elements/vc_row.php:228
+msgid "Row Color Style"
+msgstr ""
+
+#: config/elements/vc_row.php:214
+msgid "Row Content Position"
+msgstr ""
+
+#: config/elements/vc_row.php:693
+msgid "Row/Section"
+msgstr ""
+
+#: config/elements/product_field.php:31
+msgid "Sale Badge"
+msgstr ""
+
+#: config/elements/product_field.php:43
+msgid "Sale Badge Text"
+msgstr ""
+
+#: config/elements/gmaps.php:157
+msgid "Satellite"
+msgstr ""
+
+#: config/elements/gmaps.php:158
+msgid "Satellite + Roadmap"
+msgstr ""
+
+#: usof/templates/fields/style_scheme.php:41
+msgid "Save current colors as"
+msgstr ""
+
+#: config/elements_hover_options.php:50
+msgid "Scale"
+msgstr ""
+
+#: config/elements/popup.php:183
+msgid "Scale Down"
+msgstr ""
+
+#: config/elements_hover_options.php:66
+msgid "Scale on Hover"
+msgstr ""
+
+#: config/elements/popup.php:182
+msgid "Scale Up"
+msgstr ""
+
+#: config/theme-options.php:3558
+msgid "Schema.org markup"
+msgstr ""
+
+#: config/assets.php:920
+msgid "Scroll events"
+msgstr ""
+
+#: config/elements/scroller.php:31
+msgid "Scroll Speed"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:23
+msgid "Scroll to the beginning of the section when opening"
+msgstr ""
+
+#: config/elements/search.php:59
+msgid "Search Field Background"
+msgstr ""
+
+#: config/elements/search.php:70
+msgid "Search Field Text"
+msgstr ""
+
+#: config/theme-options.php:1143 functions/breadcrumbs.php:51
+msgid "Search Results"
+msgstr ""
+
+#: config/elements/search.php:37
+msgid "Search specific post type"
+msgstr ""
+
+#: config/elements/counter.php:68 config/elements/sharing.php:74
+#: config/elements/separator.php:93 config/elements/progbar.php:108
+#: config/elements/iconbox.php:113
+msgid "Secondary (theme color)"
+msgstr ""
+
+#: config/elements/cta.php:77 config/elements/vc_row.php:234
+msgid "Secondary bg & White text"
+msgstr ""
+
+#: config/theme-options.php:3015
+msgid "Secondary Buttons Style"
+msgstr ""
+
+#: config/theme-options.php:1645 config/theme-options.php:1726
+msgid "Secondary Color"
+msgstr ""
+
+#: config/elements/vc_tta_section.php:82 builder/classes/USBuilder.php:969
+msgid "Section"
+msgstr ""
+
+#: config/elements/grid.php:515
+#, php-format
+msgid "See %s"
+msgstr ""
+
+#: config/elements_conditional_options.php:155 templates/form/radio.php:86
+#: templates/form/checkboxes.php:89 templates/form/select.php:88
+msgid "Select an option"
+msgstr ""
+
+#: config/theme-options.php:3308
+#, php-format
+msgid "Selected template will be applied to the \"%s\" page."
+msgstr ""
+
+#: usof/templates/fields/grid_builder.php:198
+#: usof/templates/fields/header_builder.php:279
+msgid ""
+"Selected template will overwrite all your current elements and settings! Are "
+"you sure want to apply it?"
+msgstr ""
+
+#: config/elements_design_options.php:93 config/elements/counter.php:136
+#: config/elements/vc_tta_tabs.php:81 config/elements/vc_tta_tour.php:115
+#: usof/templates/fields/font.php:179 usof/templates/fields/font.php:180
+msgid "semi-bold"
+msgstr ""
+
+#: config/meta-boxes.php:355 config/theme-options.php:3551
+#: functions/meta-tags.php:321
+msgid "SEO meta tags"
+msgstr ""
+
+#: config/assets.php:967 config/elements/separator.php:14
+msgid "Separator"
+msgstr ""
+
+#: config/elements/post_taxonomy.php:60 config/elements/breadcrumbs.php:54
+msgid "Separator between items"
+msgstr ""
+
+#: config/elements/person.php:125
+msgid "Sepia"
+msgstr ""
+
+#: config/elements/vc_row.php:380
+msgid ""
+"Set \"0\" to disable video rendering on all mobile devices including tablets"
+msgstr ""
+
+#: config/elements/post_content.php:56
+msgid "Set \"0\" to show full Excerpt."
+msgstr ""
+
+#: config/theme-options.php:3465
+msgid "Set \"0px\" to disable threshold."
+msgstr ""
+
+#: config/grid-settings.php:61 config/elements/post_custom_field.php:141
+#: config/elements/image.php:81 config/elements/post_image.php:77
+msgid "Set Aspect Ratio"
+msgstr ""
+
+#: config/elements/vc_column.php:31
+msgid "Set the distance from the top of a page where the column will stick."
+msgstr ""
+
+#: config/theme-options.php:2017
+msgid "Sets behavior of fonts rendering."
+msgstr ""
+
+#: config/grid-settings.php:199 config/theme-options.php:2124
+#: config/theme-options.php:2132 config/theme-options.php:2138
+#: config/theme-options.php:2554 config/theme-options.php:2562
+#: config/theme-options.php:2568
+msgid "Shadow"
+msgstr ""
+
+#: config/theme-options.php:2653
+msgid "Shadow on focus"
+msgstr ""
+
+#: config/grid-settings.php:211 config/theme-options.php:2223
+msgid "Shadow on hover"
+msgstr ""
+
+#: config/elements/vc_row.php:62 config/elements/vc_row.php:84
+#: config/elements/vc_row.php:90 config/elements/vc_row.php:100
+#: config/elements/vc_row.php:114 config/elements/vc_row.php:125
+#: config/elements/vc_row.php:136
+msgid "Shape Divider"
+msgstr ""
+
+#: templates/elements/sharing.php:53 templates/elements/sharing.php:63
+#: templates/elements/sharing.php:73 templates/elements/sharing.php:78
+#: templates/elements/sharing.php:83 templates/elements/sharing.php:88
+#: templates/elements/sharing.php:93
+msgid "Share this"
+msgstr ""
+
+#: config/assets.php:979 config/elements/sharing.php:14
+msgid "Sharing Buttons"
+msgstr ""
+
+#: config/elements/sharing.php:98
+msgid "Sharing URL (optional)"
+msgstr ""
+
+#: config/elements/wc_notices.php:10
+msgid "Shop Notices Box"
+msgstr ""
+
+#: admin/functions/demo-import.php:347 admin/functions/demo-import.php:880
+msgid "Shop Products"
+msgstr ""
+
+#: config/grid-templates.php:4169
+msgid "Shop Templates"
+msgstr ""
+
+#: config/elements/grid.php:796 config/elements/grid.php:823
+#: config/elements/grid.php:850
+msgid "show"
+msgstr ""
+
+#: config/elements/grid.php:766
+msgid "Show \"All\" item in filter bar"
+msgstr ""
+
+#: config/elements/grid_filter.php:76
+msgid "Show \"All\" value"
+msgstr ""
+
+#: config/elements/image_slider.php:32
+msgid "Show always"
+msgstr ""
+
+#: config/elements/grid_filter.php:83
+msgid "Show amount of relevant posts"
+msgstr ""
+
+#: config/header-settings.php:170 config/header-settings.php:492
+msgid "Show Area"
+msgstr ""
+
+#: config/elements/menu.php:90
+msgid "Show arrows for main items with dropdown"
+msgstr ""
+
+#: admin/functions/nav-menu-edit.php:27
+msgid "Show as Button"
+msgstr ""
+
+#: config/elements/product_field.php:50
+#: config/elements/post_custom_field.php:123
+msgid "Show as table"
+msgstr ""
+
+#: config/elements/grid_filter.php:123
+msgid "Show as Toggles"
+msgstr ""
+
+#: config/elements/vc_row.php:59
+msgid "Show at the bottom"
+msgstr ""
+
+#: config/elements/vc_row.php:59
+msgid "Show at the top"
+msgstr ""
+
+#: config/elements/grid.php:285
+msgid "Show child terms"
+msgstr ""
+
+#: config/meta-boxes.php:157 config/theme-options.php:156
+#: config/theme-options.php:1228
+msgid "Show content as is"
+msgstr ""
+
+#: config/elements/breadcrumbs.php:33
+msgid "Show current page"
+msgstr ""
+
+#: config/elements/scroller.php:117
+msgid "Show dots for Footer"
+msgstr ""
+
+#: config/menu-dropdown.php:184 config/elements/menu.php:281
+msgid "Show dropdown by click on"
+msgstr ""
+
+#: config/elements/grid.php:286
+msgid "Show empty"
+msgstr ""
+
+#: config/theme-options.php:815
+msgid "Show floating notice for new site visitors"
+msgstr ""
+
+#: config/elements/separator.php:51
+msgid "Show horizontal line in the middle"
+msgstr ""
+
+#: functions/shortcodes.php:308 config/elements/image.php:123
+#: config/elements/image_slider.php:77
+msgid "Show image title and description"
+msgstr ""
+
+#: config/elements/grid.php:82
+#, php-format
+msgid "Show Items of selected %s"
+msgstr ""
+
+#: config/elements/post_content.php:117 config/elements/vc_column_text.php:71
+msgid "Show Less"
+msgstr ""
+
+#: config/elements/add_to_cart.php:26
+msgid "Show link to cart when adding products"
+msgstr ""
+
+#: config/theme-options.php:832
+#, php-format
+msgid "Show link to the %s page"
+msgstr ""
+
+#: config/elements/gmaps.php:58
+msgid "Show Marker Text when map is loaded"
+msgstr ""
+
+#: config/elements/post_image.php:64
+msgid "Show media preview for posts with video, audio and gallery format"
+msgstr ""
+
+#: config/elements/additional_menu.php:236
+msgid "Show menu sub items"
+msgstr ""
+
+#: config/elements/menu.php:205
+msgid "Show mobile menu when screen width is less than"
+msgstr ""
+
+#: config/elements/post_content.php:105 config/elements/vc_column_text.php:59
+msgid "Show More"
+msgstr ""
+
+#: config/elements/scroller.php:45
+msgid "Show Navigation Dots"
+msgstr ""
+
+#: config/elements/post_title.php:93
+msgid "Show number of posts in the current term"
+msgstr ""
+
+#: config/elements/vc_row.php:356
+msgid "Show on background"
+msgstr ""
+
+#: config/elements/image_slider.php:33
+msgid "Show on hover"
+msgstr ""
+
+#: config/elements/post_comments.php:45
+msgid "Show only number"
+msgstr ""
+
+#: config/elements/product_field.php:57
+msgid "Show only when out of stock"
+msgstr ""
+
+#: config/elements/grid.php:295
+msgid "Show past events"
+msgstr ""
+
+#: config/elements/post_image.php:58
+msgid "Show placeholder when post image is absent"
+msgstr ""
+
+#: config/elements/vc_video.php:97
+msgid "Show Play icon"
+msgstr ""
+
+#: config/elements/popup.php:56
+msgid "Show Popup via"
+msgstr ""
+
+#: config/elements/checkout_order_review.php:51
+msgid "Show Products List"
+msgstr ""
+
+#: config/elements/cart_table.php:112
+msgid "Show Removing Link"
+msgstr ""
+
+#: config/theme-options.php:1148 config/theme-options.php:1169
+#: config/theme-options.php:1324
+msgid "Show results via Grid element with defaults"
+msgstr ""
+
+#: config/theme-options.php:642
+msgid "Show site visitors only one specific page"
+msgstr ""
+
+#: config/elements/cart_totals.php:52
+#: config/elements/checkout_order_review.php:59
+msgid "Show Subtotal"
+msgstr ""
+
+#: config/theme-options.php:756
+msgid "Show the button that helps users navigate to the top of long pages"
+msgstr ""
+
+#: config/elements/wc_account_content.php:31
+msgid "Show the default Dashboard content"
+msgstr ""
+
+#: config/elements/grid_filter.php:168
+msgid "Show the list of values"
+msgstr ""
+
+#: config/elements/grid.php:388
+msgid "Show the message"
+msgstr ""
+
+#: config/elements/grid.php:389
+msgid "Show the Reusable Block"
+msgstr ""
+
+#: config/theme-options.php:726
+msgid "Show the ripple effect when theme elements are clicked"
+msgstr ""
+
+#: config/elements/vc_tta_section.php:28
+msgid "Show this section open"
+msgstr ""
+
+#: config/elements/grid_filter.php:182
+msgid "Show titles before values"
+msgstr ""
+
+#: config/theme-options.php:3365
+msgid "Show used icons"
+msgstr ""
+
+#: config/elements/login.php:35
+msgid "Show via AJAX"
+msgstr ""
+
+#: config/elements/cform.php:104
+msgid "Shown above the field"
+msgstr ""
+
+#: config/elements/cform.php:112
+msgid "Shown below the field"
+msgstr ""
+
+#: config/elements/cform.php:119
+msgid "Shown inside the field"
+msgstr ""
+
+#: config/theme-options.php:705
+msgid "Shows Custom Image"
+msgstr ""
+
+#: config/theme-options.php:700 config/theme-options.php:701
+#: config/theme-options.php:702 config/theme-options.php:703
+#: config/theme-options.php:704
+#, php-format
+msgid "Shows Preloader %d"
+msgstr ""
+
+#: config/theme-options.php:2789
+msgid "Side Indents"
+msgstr ""
+
+#: config/meta-boxes.php:166 config/theme-options.php:163
+#: config/theme-options.php:263 config/theme-options.php:365
+#: config/theme-options.php:1234 config/theme-options.php:1330
+#: config/theme-options.php:1420 config/theme-options.php:3158
+#: config/theme-options.php:3264 functions/post-types.php:868
+msgid "Sidebar"
+msgstr ""
+
+#: functions/widget_areas.php:39
+msgid "Sidebar Name"
+msgstr ""
+
+#: config/theme-options.php:992
+msgid "Sidebar Width"
+msgstr ""
+
+#: config/elements/dropdown.php:12
+msgid "Sidebar with Widgets"
+msgstr ""
+
+#: config/widgets.php:273 config/elements/person.php:105
+#: config/elements/vc_tta_tabs.php:18 config/elements/vc_tta_tabs.php:19
+#: config/elements/vc_tta_tabs.php:20 config/elements/sharing.php:41
+#: config/elements/search.php:48 config/elements/menu.php:78
+#: config/elements/pricing.php:75 config/elements/flipbox.php:145
+#: config/elements/socials.php:109 config/elements/vc_tta_tour.php:18
+#: config/elements/vc_tta_tour.php:19 config/elements/vc_tta_tour.php:20
+#: config/elements/iconbox.php:98
+msgid "Simple"
+msgstr ""
+
+#: config/elements/person.php:106
+msgid "Simple (rounded photo)"
+msgstr ""
+
+#: config/theme-options.php:2065
+msgid "Simple color change"
+msgstr ""
+
+#: config/elements/post_navigation.php:26
+msgid "Simple links"
+msgstr ""
+
+#: config/assets.php:992 config/elements/additional_menu.php:15
+#: usof/templates/fields/header_builder.php:128
+#: usof/templates/fields/header_builder.php:289
+msgid "Simple Menu"
+msgstr ""
+
+#: config/elements/image.php:69
+msgid "Simple Shadow"
+msgstr ""
+
+#: config/theme-options.php:884
+msgid "Site Canvas Layout"
+msgstr ""
+
+#: config/theme-options.php:965
+msgid "Site Canvas Width"
+msgstr ""
+
+#: config/theme-options.php:979
+msgid "Site Content Width"
+msgstr ""
+
+#: config/theme-options.php:881
+msgid "Site Layout"
+msgstr ""
+
+#: functions/post-types.php:234 functions/post-types.php:235
+msgctxt "site top area"
+msgid "Add Header"
+msgstr ""
+
+#: functions/post-types.php:236 builder/classes/USBuilder.php:517
+msgctxt "site top area"
+msgid "Edit Header"
+msgstr ""
+
+#: config/meta-boxes.php:73 config/assets.php:511 config/theme-options.php:120
+#: config/theme-options.php:221 config/theme-options.php:323
+#: config/theme-options.php:1197 config/theme-options.php:1288
+#: config/theme-options.php:1381 config/theme-options.php:3119
+#: config/theme-options.php:3204 config/menu-dropdown.php:56
+#: functions/post-types.php:233 functions/header.php:985
+#: functions/meta-tags.php:209 admin/functions/header-builder.php:73
+msgctxt "site top area"
+msgid "Header"
+msgstr ""
+
+#: config/elements_misc.php:93 functions/post-types.php:232
+#: admin/functions/demo-import.php:316 admin/functions/demo-import.php:743
+msgctxt "site top area"
+msgid "Headers"
+msgstr ""
+
+#: config/elements/cart_table.php:103
+msgid "Size of Subtotal Price"
+msgstr ""
+
+#: config/elements/cform.php:238
+msgid "Size on Mobiles"
+msgstr ""
+
+#: config/elements_design_options.php:195
+#: config/elements_design_options.php:203
+#: config/elements_design_options.php:211
+#: config/elements_design_options.php:219
+#: config/elements_design_options.php:227
+#: config/elements_design_options.php:235
+msgid "Sizes"
+msgstr ""
+
+#: config/widgets.php:305 config/elements/vc_row.php:398
+#: config/elements/socials.php:141 config/elements/image_slider.php:54
+msgid "Slide"
+msgstr ""
+
+#: config/theme-options.php:2066
+msgid "Slide background from the top"
+msgstr ""
+
+#: config/elements/carousel.php:176
+msgid "Slide by several items instead of one"
+msgstr ""
+
+#: config/elements/popup.php:185
+msgid "Slide from the Bottom"
+msgstr ""
+
+#: config/elements/popup.php:184
+msgid "Slide from the Top"
+msgstr ""
+
+#: config/elements_misc.php:27
+msgid "SlideDown"
+msgstr ""
+
+#: config/theme-options.php:3029
+msgid "Slider"
+msgstr ""
+
+#: config/theme-options.php:865
+msgid "Smooth Scroll Duration"
+msgstr ""
+
+#: config/assets.php:1013 config/widgets.php:255 config/widgets.php:256
+#: config/elements/socials.php:15 usof/templates/fields/header_builder.php:153
+#: usof/templates/fields/header_builder.php:291
+msgid "Social Links"
+msgstr ""
+
+#: config/elements_design_options.php:312 config/elements/sharing.php:42
+#: config/elements/separator.php:106 config/elements/socials.php:110
+#: config/elements/iconbox.php:99
+msgid "Solid"
+msgstr ""
+
+#: admin/functions/demo-import.php:40
+#, php-format
+msgid ""
+"Some of demo data may be imported incorrectly, because you are using "
+"outdated %s version. %sUpdate the theme%s to import demos without possible "
+"issues."
+msgstr ""
+
+#: config/elements_design_options.php:245
+#: config/elements_design_options.php:254
+#: config/elements_design_options.php:262
+#: config/elements_design_options.php:270
+#: config/elements_design_options.php:278
+#: config/elements_design_options.php:287
+#: config/elements_design_options.php:295
+#: config/elements_design_options.php:303
+msgid "Spacing"
+msgstr ""
+
+#: config/elements_conditional_options.php:228
+msgctxt "specified date"
+msgid "Since"
+msgstr ""
+
+#: config/elements_conditional_options.php:229
+msgctxt "specified date"
+msgid "Until"
+msgstr ""
+
+#: config/elements/gmaps.php:39 config/elements/gmaps.php:97
+msgid ""
+"Specify address in accordance with the format used by the national postal "
+"service of the country concerned."
+msgstr ""
+
+#: config/elements_design_options.php:502 config/theme-options.php:2194
+#: config/theme-options.php:2279 config/theme-options.php:2624
+#: config/theme-options.php:2709
+msgid "Spread"
+msgstr ""
+
+#: config/elements/additional_menu.php:45
+#: config/elements/wc_account_navigation.php:44 config/elements/menu.php:58
+msgid "Spread menu items evenly over the available width"
+msgstr ""
+
+#: config/widgets.php:294 config/elements/socials.php:94
+msgid "Square"
+msgstr ""
+
+#: config/grid-settings.php:68 config/elements/post_custom_field.php:150
+#: config/elements/ibanner.php:95 config/elements/grid.php:666
+#: config/elements/image.php:90 config/elements/post_image.php:85
+msgid "square"
+msgstr ""
+
+#: config/theme-options.php:3336
+msgid "Standard"
+msgstr ""
+
+#: config/header-settings.php:192 config/header-settings.php:314
+#: config/header-settings.php:513
+msgid "Sticky Area Height"
+msgstr ""
+
+#: config/elements/vc_column.php:30
+msgid "Sticky Column Top Position"
+msgstr ""
+
+#: config/meta-boxes.php:86 config/header-settings.php:83
+#: config/elements/image.php:245
+msgid "Sticky Header"
+msgstr ""
+
+#: config/meta-boxes.php:119
+msgid "Sticky Header Initial Position"
+msgstr ""
+
+#: config/elements/vc_row.php:439
+msgid "Sticky Row"
+msgstr ""
+
+#: config/elements/hwrapper.php:53
+msgid "Stretch"
+msgstr ""
+
+#: config/menu-dropdown.php:46
+msgid "Stretch background to the screen edges"
+msgstr ""
+
+#: config/elements/page_block.php:54 config/elements/post_content.php:48
+msgid "Stretch content of Rows to the full width"
+msgstr ""
+
+#: config/elements/post_custom_field.php:183 config/elements/post_image.php:118
+msgid "Stretch the image to the container width"
+msgstr ""
+
+#: config/elements/vc_tta_section.php:33
+msgid "Stretch this section content to the full available area"
+msgstr ""
+
+#: config/elements/menu.php:71 config/elements/cart.php:32
+msgid "Stretch to the full available height"
+msgstr ""
+
+#: config/elements/cform.php:258 config/elements/popup.php:127
+#: config/elements/checkout_payment.php:74 config/elements/cart_totals.php:98
+#: config/elements/grid.php:476 config/elements/btn.php:105
+#: config/elements/socials.php:153 config/elements/grid_order.php:105
+msgid "Stretch to the full width"
+msgstr ""
+
+#: config/elements/vc_column.php:41
+msgid "Stretch to the screen edge"
+msgstr ""
+
+#: config/color-schemes.php:936
+msgid "Stylish Cyan"
+msgstr ""
+
+#: config/color-schemes.php:684
+msgid "Sunny Cocktail"
+msgstr ""
+
+#: config/elements/grid_filter.php:138 config/elements/grid_filter.php:139
+#: config/elements/vc_tta_tabs.php:21 config/elements/vc_tta_tabs.php:22
+#: config/elements/vc_tta_tabs.php:23
+msgid "Switch"
+msgstr ""
+
+#: config/elements/vc_tta_tabs.php:50 config/elements/vc_tta_tour.php:34
+msgid "Switch sections"
+msgstr ""
+
+#: config/elements/additional_menu.php:54
+#: config/elements/wc_account_navigation.php:53
+msgid "Switch to vertical at screens below"
+msgstr ""
+
+#: config/elements/cart_table.php:33
+msgid "Table Head"
+msgstr ""
+
+#: config/elements/cart_table.php:38
+msgid "Table Lines"
+msgstr ""
+
+#: functions/helpers.php:3145 config/elements/image.php:227
+#: config/elements/image.php:269 config/elements/search.php:108
+#: config/elements/search.php:142 config/elements/menu.php:313
+#: config/elements/cart.php:96
+msgid "Tablets"
+msgstr ""
+
+#: config/theme-options.php:1107
+msgid "Tablets Screen Width"
+msgstr ""
+
+#: config/assets.php:1040 config/elements/vc_tta_tabs.php:30
+#: config/elements/vc_tta_tabs.php:43 config/elements/vc_tta_tabs.php:57
+#: config/elements/vc_tta_tabs.php:65 config/elements/vc_tta_tabs.php:88
+#: config/elements/vc_tta_tabs.php:106 config/elements/vc_tta_tabs.php:118
+#: config/elements/vc_tta_tabs.php:128 config/elements/vc_tta_tabs.php:175
+#: config/elements/vc_tta_tour.php:28 config/elements/vc_tta_tour.php:41
+#: config/elements/vc_tta_tour.php:53 config/elements/vc_tta_tour.php:70
+#: config/elements/vc_tta_tour.php:89 config/elements/vc_tta_tour.php:99
+#: config/elements/vc_tta_tour.php:122 config/elements/vc_tta_tour.php:140
+#: config/elements/vc_tta_tour.php:152 config/elements/vc_tta_tour.php:162
+msgid "Tabs"
+msgstr ""
+
+#: config/elements/grid_filter.php:58
+msgid "Taxonomies"
+msgstr ""
+
+#: config/elements_conditional_options.php:142
+msgid "Taxonomy Term"
+msgstr ""
+
+#: config/elements/grid.php:195
+msgid "Taxonomy Terms"
+msgstr ""
+
+#: config/elements/grid.php:196
+msgid "Terms of selected taxonomy"
+msgstr ""
+
+#: config/grid-templates.php:3623 config/grid-templates.php:3728
+#: config/grid-templates.php:3830 config/grid-templates.php:3927
+#: config/grid-templates.php:3994 config/grid-templates.php:4065
+#: functions/post-types.php:162 functions/helpers.php:2345
+#: config/elements/post_custom_field.php:23
+msgid "Testimonial"
+msgstr ""
+
+#: functions/post-types.php:144
+msgid "Testimonial Categories"
+msgstr ""
+
+#: config/grid-templates.php:3624
+msgid "Testimonial Templates"
+msgstr ""
+
+#: config/theme-options.php:3539 functions/post-types.php:161
+#: admin/functions/demo-import.php:305 admin/functions/demo-import.php:308
+#: admin/functions/demo-import.php:737
+msgid "Testimonials"
+msgstr ""
+
+#: config/widgets.php:285 config/elements/counter.php:70
+#: config/elements/separator.php:91 config/elements/progbar.php:110
+#: config/elements/socials.php:126 config/elements/iconbox.php:115
+msgid "Text (theme color)"
+msgstr ""
+
+#: config/elements/post_custom_field.php:290 config/elements/post_views.php:36
+msgid "Text after value"
+msgstr ""
+
+#: config/elements/grid_order.php:97
+msgid "Text before dropdown"
+msgstr ""
+
+#: config/elements/post_taxonomy.php:105
+#: config/elements/post_custom_field.php:269 config/elements/post_date.php:76
+#: config/elements/post_views.php:28
+msgid "Text before value"
+msgstr ""
+
+#: config/elements/cform.php:75 config/elements/vc_column_text.php:14
+msgid "Text Block"
+msgstr ""
+
+#: config/meta-boxes.php:276 config/grid-settings.php:113
+#: config/menu-dropdown.php:124 config/elements/flipbox.php:80
+#: config/elements/flipbox.php:273 config/elements/vc_tta_section.php:67
+msgid "Text Color"
+msgstr ""
+
+#: config/elements/menu.php:342
+msgid "Text near Icon"
+msgstr ""
+
+#: config/elements/sharing.php:90
+msgid "Text selection inside post content only"
+msgstr ""
+
+#: config/elements_design_options.php:448
+#: config/elements_design_options.php:456
+#: config/elements_design_options.php:464
+#: config/elements_design_options.php:473
+msgid "Text Shadow"
+msgstr ""
+
+#: config/elements/itext.php:23
+msgid "Text States"
+msgstr ""
+
+#: config/theme-options.php:2426
+msgid "Text Styles"
+msgstr ""
+
+#: config/elements_design_options.php:103 config/theme-options.php:595
+#: config/elements/vc_tta_tabs.php:95 config/elements/vc_tta_tour.php:129
+msgid "Text Transform"
+msgstr ""
+
+#: config/elements/post_content.php:103 config/elements/vc_column_text.php:57
+msgid "Text when content is hidden"
+msgstr ""
+
+#: config/elements/post_content.php:114 config/elements/vc_column_text.php:68
+msgid "Text when content is shown"
+msgstr ""
+
+#: config/elements/itext.php:15
+msgid "Text with dynamically changing part"
+msgstr ""
+
+#: config/elements_hover_options.php:199
+msgid "Text Сolor on Hover"
+msgstr ""
+
+#: config/elements/cform.php:314
+msgid "Thank you! Your message was sent."
+msgstr ""
+
+#: usof/templates/fields/check_table.php:45
+msgid ""
+"The checkboxes will be checked / unchecked depending on the components and "
+"settings used on the website."
+msgstr ""
+
+#: admin/functions/demo-import.php:53
+msgid ""
+"The images used in live demos will be replaced by placeholders due to "
+"copyright/license reasons."
+msgstr ""
+
+#: config/elements/vc_row.php:654
+msgid "The last column will be shown on the top."
+msgstr ""
+
+#: templates/404.php:78
+msgid "The link you followed may be broken, or the page may have been removed."
+msgstr ""
+
+#: config/theme-options.php:683
+msgid ""
+"The selected color scheme will be automatically applied when the device is "
+"switched to a dark theme."
+msgstr ""
+
+#: config/theme-options.php:1145 config/theme-options.php:1166
+msgid ""
+"The selected page must contain a Grid element showing items of the current "
+"query."
+msgstr ""
+
+#: config/theme-options.php:1180
+msgid ""
+"The selected page will be shown instead of the \"Page not found\" message."
+msgstr ""
+
+#: functions/ajax/cform.php:165
+msgid "The sender has given his consent."
+msgstr ""
+
+#: config/elements/flipbox.php:312
+msgid "The whole element"
+msgstr ""
+
+#: config/white-label.php:30
+msgid "Theme Image"
+msgstr ""
+
+#: config/white-label.php:37
+msgid "Theme Menu Icon"
+msgstr ""
+
+#: config/theme-options.php:3494
+msgid "Theme Modules"
+msgstr ""
+
+#: config/white-label.php:22
+msgid "Theme Name"
+msgstr ""
+
+#: functions/header.php:895 usof/functions/interface.php:8
+#: usof/functions/interface.php:10 usof/functions/interface.php:70
+#: admin/functions/demo-import.php:339 admin/functions/demo-import.php:1000
+#: admin/functions/demo-import.php:1020
+msgid "Theme Options"
+msgstr ""
+
+#: usof/functions/ajax.php:123
+msgid "There's no backup to restore"
+msgstr ""
+
+#: usof/functions/ajax.php:35
+msgid "There's no options to save"
+msgstr ""
+
+#: config/header-settings.php:160
+msgid "Thin"
+msgstr ""
+
+#: config/elements_design_options.php:88 config/elements/counter.php:131
+#: config/elements/vc_tta_tabs.php:76 config/elements/vc_tta_tour.php:110
+#: usof/templates/fields/font.php:169 usof/templates/fields/font.php:170
+msgid "thin"
+msgstr ""
+
+#: config/elements/popup.php:46
+msgid "This content will appear inside a popup..."
+msgstr ""
+
+#: config/elements/cform.php:289
+msgid "This form submissions will be sent to this email."
+msgstr ""
+
+#: templates/elements/wc_notices.php:50
+msgid "This is a notice example"
+msgstr ""
+
+#: functions/ajax/cform.php:231
+#, php-format
+msgid "This message was sent from the %s page."
+msgstr ""
+
+#: config/header-settings.php:103
+msgid ""
+"This option sets scroll distance from the top of a page after which the "
+"sticky header will be shrunk"
+msgstr ""
+
+#: config/theme-options.php:3617 config/theme-options.php:3624
+#: config/theme-options.php:3631 config/theme-options.php:3638
+#: config/theme-options.php:3647 config/theme-options.php:3675
+msgid "This will improve page loading speed."
+msgstr ""
+
+#: config/elements/post_views.php:50
+msgid "Thousand separator"
+msgstr ""
+
+#: config/elements/image_slider.php:45
+msgid "Thumbnails"
+msgstr ""
+
+#: config/theme-options.php:3039
+msgid "Thumbnails Position"
+msgstr ""
+
+#: config/theme-options.php:3067
+msgid "Thumbnails Width"
+msgstr ""
+
+#: config/elements/vc_row.php:69
+msgid "Tilt"
+msgstr ""
+
+#: config/elements/post_date.php:49
+msgid "Time difference"
+msgstr ""
+
+#: config/elements/vc_tta_tabs.php:26 config/elements/vc_tta_tabs.php:27
+msgid "Timeline"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:44
+msgid "Title Alignment"
+msgstr ""
+
+#: config/elements/image.php:129
+msgid "Title and Description Style"
+msgstr ""
+
+#: config/elements/popup.php:232
+msgid "Title Background"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:68 config/elements/ibanner.php:61
+#: config/elements/counter.php:115 config/elements/cta.php:46
+#: config/elements/separator.php:148 config/elements/progbar.php:75
+#: config/elements/flipbox.php:47 config/elements/flipbox.php:241
+#: config/elements/iconbox.php:66
+msgid "Title HTML tag"
+msgstr ""
+
+#: config/elements/counter.php:150
+msgid "Title Indent"
+msgstr ""
+
+#: config/elements/wc_account_login.php:37
+#: config/elements/vc_tta_accordion.php:58 config/elements/ibanner.php:49
+#: config/elements/counter.php:104 config/elements/cart_totals.php:41
+#: config/elements/cta.php:34 config/elements/checkout_billing.php:41
+#: config/elements/checkout_order_review.php:40 config/elements/progbar.php:63
+#: config/elements/flipbox.php:34 config/elements/flipbox.php:231
+#: config/elements/iconbox.php:54
+msgid "Title Size"
+msgstr ""
+
+#: config/elements/popup.php:242
+msgid "Title Text"
+msgstr ""
+
+#: config/elements/counter.php:127
+msgid "Title Weight"
+msgstr ""
+
+#: config/meta-boxes.php:135 config/theme-options.php:134
+#: config/theme-options.php:235 config/theme-options.php:337
+#: config/theme-options.php:1209 config/theme-options.php:1304
+#: config/theme-options.php:1394 config/theme-options.php:3132
+#: config/theme-options.php:3217 functions/post-types.php:867
+msgid "Titlebar"
+msgstr ""
+
+#: config/theme-options.php:3520
+msgid "Titlebars & Sidebars"
+msgstr ""
+
+#: config/elements/post_taxonomy.php:71
+#: config/elements/post_custom_field.php:202 config/elements/grid.php:705
+#: config/elements/image.php:148 config/elements/btn.php:41
+#: config/elements/post_image.php:29 config/elements/post_title.php:29
+#: config/elements/text.php:47 config/elements/post_author.php:28
+msgid "To a Post"
+msgstr ""
+
+#: config/elements/post_taxonomy.php:72
+msgid "To a Post Archive"
+msgstr ""
+
+#: config/elements/post_comments.php:54
+msgid "To a Post comments"
+msgstr ""
+
+#: config/theme-options.php:424
+#, php-format
+msgid "To change the default image sizes, go to %s."
+msgstr ""
+
+#: config/theme-options.php:429
+#, php-format
+msgid "To change the Product image sizes, go to %s."
+msgstr ""
+
+#: usof/templates/fields/grid_builder.php:242
+msgid ""
+"To import another Grid Layout replace the text in this field and click "
+"\"Import\" button."
+msgstr ""
+
+#: config/elements/post_author.php:27
+msgid "To the Author's website (if specified on his profile)"
+msgstr ""
+
+#: config/elements/post_author.php:26
+msgid "To the page with the Author's posts"
+msgstr ""
+
+#: usof/templates/fields/header_builder.php:223
+msgid "Top Area"
+msgstr ""
+
+#: config/elements/cart_totals.php:59
+#: config/elements/checkout_order_review.php:66
+msgid "Total Font Size"
+msgstr ""
+
+#: functions/grid.php:1543
+msgid "Total views"
+msgstr ""
+
+#: config/theme-options.php:3723
+msgid "Transfer Theme Options"
+msgstr ""
+
+#: config/elements/vc_tta_tabs.php:137 config/elements/vc_tta_tour.php:171
+msgid "Transform to Accordion at the screen width"
+msgstr ""
+
+#: config/elements/vc_row.php:407 config/elements/carousel.php:242
+#: config/elements/image_slider.php:62
+msgid "Transition Duration"
+msgstr ""
+
+#: config/elements/vc_row.php:395 config/elements/carousel.php:257
+#: config/elements/image_slider.php:51
+msgid "Transition Effect"
+msgstr ""
+
+#: config/meta-boxes.php:39 config/meta-boxes.php:218
+#: config/header-settings.php:120 config/header-settings.php:266
+#: config/header-settings.php:277 config/header-settings.php:288
+#: config/header-settings.php:454 config/header-settings.php:466
+#: config/header-settings.php:478 config/header-settings.php:587
+#: config/header-settings.php:598 config/header-settings.php:609
+#: config/theme-options.php:1506 config/theme-options.php:1512
+#: config/theme-options.php:1518 config/theme-options.php:1563
+#: config/theme-options.php:1570 config/theme-options.php:1577
+#: config/elements/menu.php:137 config/elements/menu.php:144
+msgid "Transparent Header"
+msgstr ""
+
+#: config/elements/person.php:110 config/elements/grid_filter.php:137
+#: config/elements/grid_filter.php:139 config/elements/vc_tta_tabs.php:25
+#: config/elements/vc_tta_tour.php:25
+msgid "Trendy"
+msgstr ""
+
+#: config/elements/vc_tta_accordion.php:85 config/elements/vc_row.php:72
+msgid "Triangle"
+msgstr ""
+
+#: config/elements/vc_row.php:73
+msgid "Triangle (inv)"
+msgstr ""
+
+#: config/elements/vc_row.php:74
+msgid "Triangle 2"
+msgstr ""
+
+#: config/elements/vc_row.php:75
+msgid "Triangle 2 (inv)"
+msgstr ""
+
+#: config/elements/popup.php:66 config/elements/popup.php:76
+#: config/elements/popup.php:86 config/elements/popup.php:96
+#: config/elements/popup.php:104 config/elements/popup.php:115
+#: config/elements/popup.php:132 config/elements/popup.php:141
+#: config/elements/popup.php:153 config/elements/popup.php:162
+#: config/elements/popup.php:170
+msgid "Trigger"
+msgstr ""
+
+#: templates/elements/sharing.php:58
+msgid "Tweet this"
+msgstr ""
+
+#: config/color-schemes.php:1090
+msgid "Twilight"
+msgstr ""
+
+#: config/elements/flipbox.php:15
+msgid "Two-sided content element, flipping on hover"
+msgstr ""
+
+#: config/elements/itext.php:101
+msgid "Typing"
+msgstr ""
+
+#: config/theme-options.php:1863
+msgid "Typography"
+msgstr ""
+
+#: config/elements_design_options.php:96 config/elements/counter.php:139
+#: config/elements/vc_tta_tabs.php:84 config/elements/vc_tta_tour.php:118
+#: usof/templates/fields/font.php:185 usof/templates/fields/font.php:186
+msgid "ultra-bold"
+msgstr ""
+
+#: config/theme-options.php:740
+msgid "Underline text links on hover"
+msgstr ""
+
+#: config/theme-options.php:737
+msgid "Underlining Links"
+msgstr ""
+
+#: config/theme-options.php:3478
+msgid "Unused Thumbnails"
+msgstr ""
+
+#: config/elements/cform.php:74
+msgid "Upload File"
+msgstr ""
+
+#: config/theme-options.php:1959 functions/helpers.php:1332
+#: functions/helpers.php:1382 usof/templates/fields/font.php:145
+msgid "Uploaded Fonts"
+msgstr ""
+
+#: config/theme-options.php:2429
+msgid "Uppercase"
+msgstr ""
+
+#. Author of the plugin
+msgid "UpSolution"
+msgstr ""
+
+#. Name of the plugin
+msgid "UpSolution Core"
+msgstr ""
+
+#: config/elements/post_views.php:45
+msgid "Use \"K\" shorthand for thousands"
+msgstr ""
+
+#: config/elements/gmaps.php:49
+#, php-format
+msgid "Use %s to show the address value."
+msgstr ""
+
+#: config/elements/vc_row.php:486
+#, php-format
+msgid "Use %s values"
+msgstr ""
+
+#: config/elements/popup.php:158
+msgid "Use class or ID."
+msgstr ""
+
+#: config/theme-options.php:3382
+msgid "Use fallback icon font for theme UI controls"
+msgstr ""
+
+#: config/elements_conditional_options.php:219
+msgid "Use ID or slug."
+msgstr ""
+
+#: config/elements/itext.php:68
+msgid "Use non-breaking spaces"
+msgstr ""
+
+#: config/theme-options.php:3526
+msgid "Use Reusable Blocks for Sidebars"
+msgstr ""
+
+#: config/white-label.php:32
+msgid "Use the 4:3 aspect ratio to display correctly."
+msgstr ""
+
+#: config/elements/cform.php:146
+msgid "Use the value of this field as sender' address of emails"
+msgstr ""
+
+#: config/elements/cform.php:152
+msgid "Use the value of this field as sender' name of emails"
+msgstr ""
+
+#: config/theme-options.php:3696 config/theme-options.php:3702
+#, php-format
+msgid ""
+"Use this field for Google Analytics code or other tracking code. If you "
+"paste custom JavaScript, use it inside the %s tags."
+msgstr ""
+
+#: config/elements/carousel.php:258
+msgid "Use timing function"
+msgstr ""
+
+#: functions/helpers.php:1310
+msgid "used as default font"
+msgstr ""
+
+#: config/meta-boxes.php:339 functions/post-types.php:425
+msgid "Used in"
+msgstr ""
+
+#: functions/helpers.php:1317
+#, php-format
+msgid "used in Heading %s"
+msgstr ""
+
+#: config/elements_conditional_options.php:143
+msgid "User Role"
+msgstr ""
+
+#: config/elements_conditional_options.php:144
+msgid "User State"
+msgstr ""
+
+#: config/elements/cform.php:126
+msgid "Values"
+msgstr ""
+
+#: config/theme-options.php:2160 config/theme-options.php:2245
+#: config/theme-options.php:2590 config/theme-options.php:2675
+msgid "Ver. offset"
+msgstr ""
+
+#: usof/templates/fields/transfer.php:20
+msgctxt "verb"
+msgid "Import Options"
+msgstr ""
+
+#: config/header-settings.php:78 config/elements/cform.php:321
+#: config/elements/popup.php:187 config/elements/additional_menu.php:35
+#: config/elements/grid_filter.php:115
+#: config/elements/wc_account_navigation.php:34
+msgid "Vertical"
+msgstr ""
+
+#: config/elements/additional_menu.php:104
+#: config/elements/wc_account_navigation.php:103 config/elements/vc_row.php:191
+msgid "Vertical Indents"
+msgstr ""
+
+#: config/elements_design_options.php:451
+#: config/elements_design_options.php:486
+msgid "Vertical Offset"
+msgstr ""
+
+#: config/elements/menu.php:222
+msgid "Vertical Panel"
+msgstr ""
+
+#: config/assets.php:1100 config/elements/vc_row.php:321
+msgid "Vertical Parallax"
+msgstr ""
+
+#: config/elements_hover_options.php:130
+msgid "Vertical Shift"
+msgstr ""
+
+#: config/elements_hover_options.php:154
+msgid "Vertical Shift on Hover"
+msgstr ""
+
+#: config/assets.php:1040 config/elements/vc_tta_tour.php:209
+msgid "Vertical Tabs"
+msgstr ""
+
+#: config/assets.php:1112 config/elements/vwrapper.php:15
+msgid "Vertical Wrapper"
+msgstr ""
+
+#: config/grid-settings.php:178 config/header-settings.php:386
+#: config/elements_design_options.php:167 config/theme-options.php:933
+#: config/menu-dropdown.php:152 config/elements/vc_row.php:303
+msgid "Vertically"
+msgstr ""
+
+#: config/elements/vc_video.php:76
+msgid "Video Alignment"
+msgstr ""
+
+#: config/elements/vc_video.php:42
+msgid "Video link"
+msgstr ""
+
+#: config/assets.php:1075 config/elements/vc_video.php:144
+msgid "Video Player"
+msgstr ""
+
+#: admin/functions/demo-import.php:261
+msgid "View this demo in a new tab"
+msgstr ""
+
+#: functions/grid.php:1546
+msgid "Views for last day"
+msgstr ""
+
+#: functions/grid.php:1544
+msgid "Views for last month"
+msgstr ""
+
+#: functions/grid.php:1545
+msgid "Views for last week"
+msgstr ""
+
+#: config/elements/vc_row.php:76
+msgid "Wave"
+msgstr ""
+
+#: functions/helpers.php:1351 functions/helpers.php:1409
+#: usof/templates/fields/font.php:143
+msgid "Web safe font combinations (do not need to be loaded)"
+msgstr ""
+
+#: config/theme-options.php:3603
+msgid "Website Performance"
+msgstr ""
+
+#: config/color-schemes.php:1410
+msgid "Wet Stone"
+msgstr ""
+
+#: config/elements/itext.php:61
+msgid ""
+"When enabled, lines of text will be animated without using the dynamic part."
+msgstr ""
+
+#: config/theme-options.php:1082
+msgid ""
+"When screen width is less than this value, all columns within a row become a "
+"single column."
+msgstr ""
+
+#: config/elements/scroller.php:24
+msgid ""
+"When screen width is less than this value, scrolling by rows will be "
+"disabled."
+msgstr ""
+
+#: config/theme-options.php:1068
+msgid ""
+"When the screen width is less than this value, vertical parallax and "
+"appearance animations are disabled."
+msgstr ""
+
+#: config/theme-options.php:3617
+msgid ""
+"When this option is ON, \"jquery-migrate.min.js\" file won't be loaded on "
+"the front end."
+msgstr ""
+
+#: config/theme-options.php:640
+msgid ""
+"When this option is ON, all non-logged in users will see only the selected "
+"page. This is useful when your site is under construction."
+msgstr ""
+
+#: config/theme-options.php:3480
+msgid ""
+"When this option is ON, all the thumbnails of non-registered image sizes are "
+"deleted."
+msgstr ""
+
+#: config/theme-options.php:3675
+msgid ""
+"When this option is ON, Google Fonts CSS file won't be loaded separately."
+msgstr ""
+
+#: config/theme-options.php:3624
+msgid ""
+"When this option is ON, jQuery library files will be loaded after the page "
+"content."
+msgstr ""
+
+#: config/theme-options.php:3638
+msgid ""
+"When this option is ON, the original CSS and JS files of WPBakery Page "
+"Builder won't be loaded on the front end."
+msgstr ""
+
+#: config/theme-options.php:3631
+msgid ""
+"When this option is ON, theme components JS files will be loaded dynamically "
+"without additional external requests."
+msgstr ""
+
+#: config/theme-options.php:3647
+msgid ""
+"When this option is ON, your site will compress scripts to a single JS file "
+"and compress styles to a single CSS file. You can disable unused components "
+"to reduce their sizes."
+msgstr ""
+
+#: config/theme-options.php:666
+msgid ""
+"When this option is ON, your site will send HTTP 503 response to search "
+"engines. Use this option only for short period of time."
+msgstr ""
+
+#: config/elements/grid_filter.php:204
+msgid ""
+"When turned off, unavailable values will remain visible, but not clickable."
+msgstr ""
+
+#: config/elements/sharing.php:84
+msgid ""
+"When you select text on a page, a panel with buttons appears, and you can "
+"quickly share the selected text."
+msgstr ""
+
+#: config/color-schemes.php:172
+msgid "White Alizarin"
+msgstr ""
+
+#: config/color-schemes.php:378
+msgid "White Azure"
+msgstr ""
+
+#: config/color-schemes.php:13
+msgid "White Pink"
+msgstr ""
+
+#: config/color-schemes.php:222
+msgid "White Purple"
+msgstr ""
+
+#: config/color-schemes.php:478
+msgid "White Sand"
+msgstr ""
+
+#: config/color-schemes.php:531
+msgid "White Yellow"
+msgstr ""
+
+#: config/header-settings.php:161
+msgid "Wide"
+msgstr ""
+
+#: config/elements_design_options.php:531 config/elements/grid.php:583
+msgid "Width Stretch"
+msgstr ""
+
+#: functions/meta-tags.php:306
+#, php-format
+msgid "Will apply to all pages with the \"%s\" taxonomy."
+msgstr ""
+
+#: functions/meta-tags.php:271
+#, php-format
+msgid "Will apply to the \"%s\" archive page."
+msgstr ""
+
+#: config/elements/iconbox.php:38
+msgid "Will be applied to the icon and title"
+msgstr ""
+
+#: config/elements_design_options.php:520
+msgid ""
+"Will be applied to this element, when it enters into the browsers viewport."
+msgstr ""
+
+#: config/white-label.php:39
+msgid "Will be shown in the admin menu."
+msgstr ""
+
+#: config/elements/iconbox.php:31
+msgid "Will be shown instead of the icon"
+msgstr ""
+
+#: config/white-label.php:24
+msgid ""
+"Will be shown on all admin pages, except the current one. The theme "
+"directory won't be renamed due to server security reasons."
+msgstr ""
+
+#: config/white-label.php:32 config/white-label.php:46
+#, php-format
+msgid "Will be shown on the \"%s\" page."
+msgstr ""
+
+#: config/elements/socials.php:112
+msgid "With alternate background"
+msgstr ""
+
+#: config/elements/hwrapper.php:52
+msgid "With baseline"
+msgstr ""
+
+#: config/widgets.php:276
+msgid "With colored background"
+msgstr ""
+
+#: config/widgets.php:275
+msgid "With light background"
+msgstr ""
+
+#: config/widgets.php:274
+msgid "With outline"
+msgstr ""
+
+#: functions/media.php:340
+msgid "Without categories"
+msgstr ""
+
+#: usof/templates/fields/transfer.php:24
+msgid "Wrong import data format"
+msgstr ""
+
+#: admin/functions/demo-import.php:586 admin/functions/demo-import.php:707
+#: admin/functions/demo-import.php:881 admin/functions/demo-import.php:947
+#: admin/functions/demo-import.php:960 admin/functions/demo-import.php:1001
+#: admin/functions/demo-import.php:1021
+msgid "Wrong path to the file or it is missing."
+msgstr ""
+
+#: config/elements/message.php:26
+msgid "Yellow"
+msgstr ""
+
+#: functions/helpers.php:2411 config/elements/post_date.php:13
+msgid "Yesterday"
+msgstr ""
+
+#: config/elements/menu.php:282
+#, php-format
+msgid ""
+"You can change this behavior separately for every menu item on the %s page"
+msgstr ""
+
+#: config/theme-options.php:650
+#, php-format
+msgid "You can deactivate it on your %sLicenses%s page."
+msgstr ""
+
+#: usof/templates/fields/header_builder.php:318
+msgid ""
+"You can export the saved Header by copying the text inside this field. To "
+"import another Header replace the text in this field and click \"Import "
+"Header\" button."
+msgstr ""
+
+#: config/theme-options.php:3726
+msgid ""
+"You can transfer the saved options data between different installations by "
+"copying the text inside the text box. To import data from another "
+"installation, replace the data in the text box with the one from another "
+"installation and click \"Import Options\"."
+msgstr ""
+
+#: templates/form/agreement.php:76
+msgid "You need to agree with the terms to proceed"
+msgstr "Devam etmek için şartları kabul etmeniz gerekiyor"
+
+#: config/theme-options.php:3653
+msgid ""
+"Your uploads folder is not writable. Change your server permissions to use "
+"this option."
+msgstr ""
+
+#: config/elements/vc_row.php:77
+msgid "Zigzag"
+msgstr ""
+
+#: config/theme-options.php:3102
+msgid "Zoom images on hover"
+msgstr ""
+
+#: config/elements/itext.php:100
+msgid "Zoom in character by character"
+msgstr ""
+
+#: config/elements/itext.php:99
+msgid "Zoom in the whole part"
+msgstr ""
+
+#: config/elements/grid.php:192
+msgid "Сhild pages of current page"
+msgstr ""
